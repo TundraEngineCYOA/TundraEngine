@@ -1,0 +1,16 @@
+1
+|	You enter the building and are standing in the entrance way of a
+|	place completely alien to you. The walls are decorated with blankets
+|	hanging on the walls. The amount of time taken to create such works
+|	of amazing art. Telling the stories of their great victories in 
+|	battle and how they came to be in this place. Stories of their creation
+|	and how they built this city beneath the surface.
+
+|	What do you do?
+
+|	1. Examine the artwork.
+|	2. Search the building.
+@
+1 71
+2 72
+

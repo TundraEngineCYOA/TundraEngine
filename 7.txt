@@ -1,0 +1,12 @@
+1
+|	You walk to the alter and see an old book. Weathered and aged by the
+|	passing years of not being used.
+
+|	What do you do?
+
+|	1. Read the book.
+|	2. Take the book.
+
+@
+1 8
+2 5

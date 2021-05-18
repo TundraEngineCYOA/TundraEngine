@@ -1,0 +1,15 @@
+1
+|	You look around the area and in the distance you see a great tower 
+|	that looks to be made out of a bright white material. Scattered about
+|	seem to be homes in the distance. Empty streets divide the areas into
+|	different locations. Not a single soul in sight but it honestly does
+|	make you wonder if you are the only one here and what just lurkes within
+|	the shadows.
+
+|	What do you do?
+
+|	1. Go back to where you were.
+
+@
+1 31
+

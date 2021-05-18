@@ -1,0 +1,15 @@
+1
+|	Exploring the area you've found yourself spending hours looking at the 
+|	perfectly carved statues. Almost as if they have been made by modern
+|	machines. It fills your heart with excitement. Several of them wearing
+|	armor that looks almost from the middle ages. Just who were these 
+|	people? What was their history? Are their any more of them still around?
+
+|	What do you do?
+
+|	1. Search the ruins.
+|	2. Take in the scenery.
+
+@
+1 34
+2 35

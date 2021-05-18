@@ -1,0 +1,16 @@
+1
+|	The tree sways with every breeze that passes you by. The leaves
+|	look almost as if they are dancing to the wind. Soon your eyes
+|	are captivated by the sight of delicous apples of some sort. Just
+|	as you are about to reach out and grab one. From the distance the
+|	figure of someone within the shadows appears, waiting for you to
+|	take what isn't yours. Suddenly, you fight the urge and stop yourself
+|	from completing the act.
+
+|	What do you do?
+
+|	1. Leave the area.
+
+@
+1 56
+

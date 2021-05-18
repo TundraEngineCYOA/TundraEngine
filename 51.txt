@@ -1,0 +1,16 @@
+1
+|	Who was the stranger? You ask.
+|
+|	The stranger arrived after the festival of the Sun. He came from the
+|	other side. Not much was known of him, but he said no word, and just
+|	as he arrived he was gone. Some say he was God who came to curse us.
+|	God put a curse on this place, poisoned the land, and left nothing
+|	but a tombstone. Now, before it gets too late, you should venture out
+|	before my time here is up.
+|	
+|	What do you do?
+
+|	1. Leave the home?
+
+@
+1 52

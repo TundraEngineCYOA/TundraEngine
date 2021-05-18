@@ -1,0 +1,26 @@
+1
+|	The sound echos through the empty streets like a child crying in
+|	the night. Soon you find that you are standing outside the home of
+|	the Old Man. Wondering just what is happening, you rush in, and find
+|	him sitting by his fire with a horn is in his hand. He greets you
+|	with a warm smile and tells you to sit.
+
+|	I wanted to speak with you again, but didn't know how to get your
+|	attention. So I figured why not use the old battle horn. I wanted to
+|	let you know that if I have important things to say. 
+|
+|	Like what? You ask.
+|
+|	I know you are getting tempted and drawn into touching or wanting to
+|	take something as a reminder of your time here. But don't, the spirits
+|	will not like that, and they will do what they can to stop you. Now,
+|	you can go back to your adventure. Oh, and before I forget. If you
+|	enter the Temple, don't sit on the Throne of the Gods.
+
+|	What do you do?
+
+|	1. Leave.
+
+@
+1 53
+

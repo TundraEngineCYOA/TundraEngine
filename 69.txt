@@ -1,0 +1,16 @@
+1
+|	Slowly you enter the cemetary and carefully look over the many
+|	gravemarkers. Though you can't read a single letter carved onto
+|	the stone markers. You feel the pain of those who lost loved one's.
+|	But you think to yourself how strange that this cemetary is clean
+|	and well maintaned. Just who do this? Perhaps it's the Old Man, but
+|	still it's honestly a mighty task. Before you know it, you reach a
+|	set of stairs.
+
+|	What do you do?
+
+|	1. Climb the stairs.
+|	2. Leave the Cemetary.
+1 73
+2 66
+

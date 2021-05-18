@@ -1,0 +1,21 @@
+1
+|	Valley of the Unknown
+|
+|	Act I
+|
+|	You are standing before a vast valley carved deep within the Earth by eons 
+|	of erosion. The ground is covered in a fine mixture of grass and wheat. A
+|	gentle breeze cuts through the area giving you a sense of peace and relaxation.
+|	In the distance stands an old stone church built by those from a forgotten
+|	time. What lurkes within this unknown charted place is anyone's guest, but your
+|	going to be the one who finds out. 
+
+
+|	What do you do?
+
+|	1. Travel through valley.
+|	2. Head to the Church.
+
+@
+1 2
+2 3

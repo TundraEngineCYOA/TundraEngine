@@ -1,0 +1,13 @@
+1
+|	You rather not take the book and leave it at it's place of worship. It
+|	wouldn't be right.
+
+|	What do you do?
+
+|	1. Leave the Church.
+|	2. Stay a bit longer.
+
+@
+1 11
+2 1
+

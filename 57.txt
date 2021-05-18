@@ -1,0 +1,12 @@
+1
+|	Entering the store it's like something you'd see back at home. Minus
+|	the fact that everything is covered in dust and void of any customers.
+
+|	What do you do?
+
+|	1. Search the store.
+|	2. Head to the back.
+
+@
+1 62
+2 63

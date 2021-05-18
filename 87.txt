@@ -1,0 +1,14 @@
+1
+|	Flipping through the pages of the many old books you find diagrams
+|	of the human body. These must be medical books, perhaps trying to
+|	find a cure. As you look through the books you've come to the 
+|	conclusion that they at least attempted to fight for their survival.
+
+|	What do you do?
+
+|	1. Leave the room.
+
+@
+1 98
+
+

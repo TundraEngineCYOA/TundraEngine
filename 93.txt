@@ -1,0 +1,13 @@
+1
+|	Wood carvings made by the hands of artists from long ago of animals
+|	that you don't recognize. Something that truly makes you wonder just
+|	what these mysterious beasts are. 
+
+|	What do you do?
+
+|	1. Examine the Fountains.
+|	2. Go to the second floor.
+
+@
+1 94
+2 95

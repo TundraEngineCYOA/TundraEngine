@@ -1,0 +1,14 @@
+1
+|	Making your way into the home, you find that it's rather small consisting
+|	of a few rooms, and as you slowly enter the kitchen. Laying on the floor
+|	is the remains of the pot and then in the next room you hear footsteps. A
+|	chill runs down your spine.
+
+|	What do you do?
+
+|	1. Call out to whoever's there.
+|	2. Enter the other room.
+
+@
+1 106
+2 107

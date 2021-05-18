@@ -1,0 +1,18 @@
+1
+|	You wander down the street in the hopes of finding someone or some
+|	sign of life or perhaps something of value. Stopping for a moment
+|	you find yourself standing at a crossroads within this maze of
+|	buildings. Many with signs in a language you yet know nothing about.
+|	But it could either be a market or a residentual area only one way
+|	to findout for sure. But just as you are about to decide the sound
+|	of a horn can be heard from behind you. Your mind starts to wonder
+|	if it's either the Old Man or perhaps someone else. But you should
+|	go and check it out.
+
+|	What do you do?
+
+|	1. Investigate the sound.
+
+@
+1 59
+

@@ -1,0 +1,13 @@
+1
+|	You enter the old church and wander through the area. A thin layer of 
+|	dust coats everything. As you wander around the area you see a strange
+|	figure sitting on a throne by an alter.
+
+|	What do you do?
+
+|	1. Speak to the figure.
+|	2. Walk to the alter.
+
+@
+1 7
+2 5

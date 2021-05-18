@@ -1,0 +1,10 @@
+1
+|	You have nothing to offer at this very moment. But what would you offer?
+
+|	What do you do?
+
+|	1. Venture into the unknown.
+
+@
+1 26
+

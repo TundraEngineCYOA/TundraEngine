@@ -1,0 +1,10 @@
+1
+|	You walk past the home and after a few minutes your curioisity gets the
+|	best of you and you decide it's best to see if anyone is home.
+
+|	What do you do?
+
+|	1. Return to the home.
+
+@
+1 36

@@ -1,0 +1,13 @@
+1
+|	You decide to make your way towards the Church, the ground around the  
+|	church is void of any plant life. As if the ground has been burnt to
+|	any over growing. 
+
+|	What do you do?
+
+|	1. Look through the window.
+|	2. Walk around and examine the Church.
+   
+@
+1 6
+2 5

@@ -1,0 +1,18 @@
+1
+|	Many creatures lurke in the darkness, many spirits roam the many roads,
+|	and rooms. Echoes of the past always have a way of returning to what they
+|	use to do.
+|
+|	Is there anyway I can protect myself from them? You ask.
+|
+|	Do not disturb any of the items you come across. Do not disrespect this
+|	sacred place. For this is the final resting place for my people.
+
+|	What do you do?
+
+|	1. What happened to your people?
+|	2. Are you here alone?
+
+@
+1 47
+2 48

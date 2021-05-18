@@ -1,0 +1,14 @@
+1
+|	As you reach the end of the tunnel, you find yourself standing before a vast
+|	room. Littered with broken statues of forgotten warriors and Gods. The place
+|	is overgrown with weeds and moss. In the distance you can hear the cries of
+|	a bird or what you hope is a bird.
+
+|	What do you do?
+
+|	1. Explore the area.
+|	2. Examine the broken statues.
+
+@
+1 30
+2 31

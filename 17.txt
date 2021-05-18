@@ -1,0 +1,11 @@
+1
+|	You decide you've spent enough time by the stream and return back to the path.
+
+|	What do you do?
+
+|	1. Return on the cave.
+|	2. Explore the valley.
+
+@
+1 18
+2 19

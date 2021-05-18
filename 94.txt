@@ -1,0 +1,11 @@
+1
+|	The fountains are connected to the walls almost resembling wash basins
+|	and the water is still flowing. As if they are still being used by whoever
+|	may still be roaming this forsaken place.
+
+|	What do you do?
+
+|	1. Go to the second floor.
+
+@
+1 95

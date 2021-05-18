@@ -1,0 +1,16 @@
+1
+|	Tell me of the Speaker. You ask.
+|
+|	It was believed that those who ruled over this land, this place we
+|	call home. They have a place to where God can speak with them and then
+|	they speak to us from the highest point. They would tell us what God
+|	wanted from us and what we can do in order to grow. They were suppose
+|	to have God protect us and in the end God was nowhere to be found.
+
+|	What do you do?
+
+|	1. What were the dark times?
+
+@
+1 50
+

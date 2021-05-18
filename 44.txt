@@ -1,0 +1,11 @@
+1
+|	You greet the old man who opens his eye's and replies with a smile. He
+|	doesn't seem surprised by your arrival.
+
+|	What do you do?
+
+|	1. Speak to the Old Man.
+
+@
+1 43
+

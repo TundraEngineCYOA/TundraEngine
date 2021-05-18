@@ -1,0 +1,16 @@
+1
+|	The statues depict many fine warriors in the prime of battle. It's 
+|	the perfect example of the art and talent. These tell a story of
+|	the rise of their society. Great stone goliaths the look like giants
+|	towering over the landscape and look so lifelike.
+
+|	What do you do?
+
+|	1. Examine the Carvings.
+|	2. Examine the Fountains.
+|	3. Go to the second floor.
+
+@
+1 93
+2 94
+3 95

@@ -1,0 +1,15 @@
+1
+|	Where is the Temple? You ask, sitting eager to know.
+|
+|	The Temple is in the center of the city. It was where both the high
+|	family and the speaker of our God ruled over all the lands. That was
+|	before the dark times, before the dead roamed the now silent roads.
+
+|	What do you do?
+
+|	1. Tell me of the Speaker.
+|	2. What were the dark times?
+
+@
+1 49
+2 50

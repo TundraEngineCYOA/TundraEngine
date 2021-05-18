@@ -1,0 +1,13 @@
+1
+|	Slowly, you turn to the strange figure and greet them. You hope that
+|	whoever it is that they understand what your saying. A few moments
+|	pass and the figure fades away into nothing.
+
+|	What do you do?
+
+|	1. Run away.
+
+@
+1 90
+
+

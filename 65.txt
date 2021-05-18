@@ -1,0 +1,17 @@
+1
+|	Without giving it a second thought you quickly follow the strange
+|	being. Trying not to make a sound but failing every so often. A
+|	strange cry can be heard carrying through the air. As you pass
+|	by the empty ruins of once filled buildings. But within a matter
+|	of a few seconds you lost track of the strange being. And within
+|	a few moments a candle flickers from the second floor. Almost as 
+|	if your being led to your certain doom. 
+
+|	What do you do?
+
+|	1. Enter the building.
+|	2. Wait outside.
+@
+1 67
+2 68
+

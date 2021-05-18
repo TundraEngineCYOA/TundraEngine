@@ -1,0 +1,13 @@
+1
+|	You figure it's about time to leave the room and so you stand up and leave
+|	the room. You are standing in the hallway. Many rooms are lined throughout
+|	the hallway.
+
+|	What do you do?
+
+|	1. Search another room.
+|	2. Wander the floor.
+
+@
+1 108
+2 109

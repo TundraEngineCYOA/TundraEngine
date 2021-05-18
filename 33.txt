@@ -1,0 +1,11 @@
+1
+|	You wander around the area and have an unnerving feeling come over
+|	you, you figure it's best to not go to far.
+
+|	What do you do?
+
+|	1. Head back.
+
+@
+1 30
+

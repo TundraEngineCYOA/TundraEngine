@@ -1,0 +1,12 @@
+1
+|	Reaching the old forgotten path that twists and turns and brings you to a  
+|	small stream. Across from it stands a small apple tree.
+
+|	What do you do?
+
+|	1. Drink from the stream.
+|	2. Follow the stream.
+
+@
+1 14
+2 15

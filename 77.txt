@@ -1,0 +1,15 @@
+1
+|	You begin searching the building in the hopes of finding another
+|	soul. Your thirst for the history of this is honestly unqenchable.
+|	Room after room revealing nothing but the remains of the dead and
+|	soon you believe that you should leave this so called place of death.
+|	And quickly you find a staircase that leads to the second floor.
+
+|	What do you do?
+
+|	1. Move to the Second floor.
+
+@
+1 79
+
+

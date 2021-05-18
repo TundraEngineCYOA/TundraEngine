@@ -1,0 +1,15 @@
+1
+|	You figure it would be best if you were to take a break. Looking
+|	over the landscape of this forgotten place. Sometimes people forget
+|	to take the time and just take in the peace of their surroundings.
+|	If more people did this then maybe the world would be a better
+|	place then what it is now.
+
+|	What do you do?
+
+|	1. Search a home.
+
+@
+1 85
+
+

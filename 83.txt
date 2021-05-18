@@ -1,0 +1,16 @@
+1
+|	With everything that's been happening since you've discovered this
+|	forgotten place. It seems to have been a wonderful place. Something
+|	free of the cancers of our society. A world that grew in such a way
+|	that it feeds the mind into a wonderful sense of adventure. Though
+|	with every passing moment makes you wonder just what you'll find or
+|	if you'll even make it our of here alive.
+
+|	What do you do?
+
+|	1. Enter the Temple.
+
+@
+1 82
+
+

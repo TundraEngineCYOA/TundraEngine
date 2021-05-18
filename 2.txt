@@ -1,0 +1,13 @@
+1
+|	Walking through the valley you hear nothing but the sounds of your own
+|	footsteps. An eerie feeling comes over you as you walk through the silent
+|	area void of life. In the distance you what appears to be that of a trail.
+
+|	What do you do?
+
+|	1. Go on the trail.
+|	2. Continue on your current path.
+
+@
+1 4
+2 3

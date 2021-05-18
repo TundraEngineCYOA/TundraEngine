@@ -1,0 +1,17 @@
+1
+|	What were the dark times? You ask.
+|
+|	It was a time when people were dying, those who weren't sick rose
+|	against those in authority. Soon, as the dead were littering the
+|	streets and the smell was so powerful that even the gardens could
+|	not bring relief. They stormed the Temple and soon the Speakers 
+|	were left to the crowd and in the end God wasn't there for them.
+|	And within a short period of time all those within this place were
+|	gone.
+
+|	What do you do?
+
+|	1. Who was the stranger?
+
+@
+1 51

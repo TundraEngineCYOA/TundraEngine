@@ -1,0 +1,13 @@
+1
+|	You follow the stream and wander around until you reach a small cave opening in
+|	the side of the valley. Small brush growth almost hides the entrance from this
+|	unknown doorway.
+
+|	What do you do?
+
+|	1. Enter the cave.
+|	2. Return to the stream.
+
+@
+1 18
+2 17

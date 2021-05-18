@@ -1,0 +1,12 @@
+1
+|	You enter a small room with a small table and chair left in the corner. Not
+|	a soul to be seen within the whole area. Past that is a doorway which leads
+|	to where anyone knows.
+
+|	What do you do?
+
+|	1. Continue onwards.
+
+@
+1 29
+

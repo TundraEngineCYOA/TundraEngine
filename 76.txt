@@ -1,0 +1,18 @@
+1
+|	You think about it for a quick moment of the benefits of taking such
+|	wonderful treasures. Thinking of the wealth and fame that can come
+|	from obtaining such items...as your about to grab the priceless works
+|	of art a strange figure appears beside you. 
+
+|	Leave what isn't yours alone. Says the Spirit.
+
+|	You agree and decide that it won't be smart if you do so.
+
+|	What do you do?
+
+|	1. Search the place.
+
+@
+1 77
+ 
+

@@ -1,0 +1,12 @@
+1
+|	You examine the area and find that it's been carved out of the Earth. An odd
+|	thin layer of moss covers certain parts of the walls. Just who had dug this
+|	tunnel and for what purpose is anyone's guess.
+
+|	What do you do?
+
+|	1. Continue onwards.
+
+@
+1 29
+

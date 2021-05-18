@@ -1,0 +1,15 @@
+1
+|	Deciding it would be nice to have a quick rest you sit on the old
+|	stone bench. It's a nice moment of rest that really gives you that
+|	sense of wonder. Knowing that you are taking in the atmosphere of 
+|	this once untouched piece of history. The landscape is covered in
+|	stone buildings that give off the feeling of a haunted world. Where
+|	the dead come to life.
+
+|	What do you do?
+
+|	1. Return to the Adventure.
+
+@
+1 56
+

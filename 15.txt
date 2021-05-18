@@ -1,0 +1,13 @@
+1
+|	You kneel down and look into the stream. The water is crystal blue and looks
+|	good enough to drink. So you figure why not. As the water passes your lips, you
+|	feel much better.
+
+|	What do you do?
+
+|	1. Follow the stream.
+|	2. Cross the stream.
+
+@
+1 16
+2 17

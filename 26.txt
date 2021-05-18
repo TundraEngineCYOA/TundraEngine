@@ -1,0 +1,12 @@
+1
+|	Moss covers the stone walls as you make your way through the forgotten tunnel.
+|	You feel an uneasy feeling come over you, as if your not alone.
+
+|	What do you do?
+
+|	1. Continue onward.
+|	2. Examine the area.
+
+@
+1 27
+2 28

@@ -1,0 +1,15 @@
+1
+|	The Temple calls out to and soon you find yourself walking towards
+|	the mighty tower that almost can touch the sky. Built with a large
+|	Sun hanging over the large twelve foot tall doors. It's something
+|	out of science fiction. Everything is perfectly built and has been
+|	remained clean since society has vanished.
+
+|	What do you do?
+
+|	1. Enter the Temple.
+|	2. Take a moment to think.
+@
+1 82
+2 83
+

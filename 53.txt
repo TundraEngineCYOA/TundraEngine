@@ -1,0 +1,11 @@
+1
+|	As you walk through the empty streets, the streets that once were filled
+|	with life are now nothing but empty shells. You begin to wonder just what
+|	or who you'll find within this hellish place.
+
+|	1. Continue down the street.
+|	2. Turn down the street.
+
+@
+1 55
+2 56

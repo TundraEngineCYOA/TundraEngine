@@ -1,0 +1,28 @@
+1
+|	How have you been able to survive for so long? You ask.
+|
+|	I've been leaving traps to catch whatever I can and gathering what vegetables
+|	and herbs I can find. 
+
+|	You've also been jumping around like a crazy person too I assume? You ask.
+
+|	No, that must've been a Hunter. They've been lurking around her a lot lately.
+|	If you see one going one way do yourself a favor and go the other. They will
+|	only attack if they either see you or are hungry.
+
+|	Good to know, thanks.
+
+|	So what brings you down here? It just can't be for the sights.
+
+|	I'm an explorer of sorts, just trying to find what no one else has and I think
+|	I found.
+
+|	Well, don't let me slow you down. She says.
+
+|	1. Would you like to join my Adventure?
+|	2. Thank her for her time and leave.
+
+@
+1 110
+2 111
+

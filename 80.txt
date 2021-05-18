@@ -1,0 +1,14 @@
+1
+|	The Monolith is carved from stone, perfectly created as if done by
+|	machine. Names who's pronounciation you don't where to start with.
+|	But if you had to make a guess, you'd have to say it was keeping the
+|	memory of those who gave their lives fighting. But that's only just
+|	a guess though.
+
+|	What do you do?
+
+|	1. Touch the monolith.
+@
+1 81
+
+

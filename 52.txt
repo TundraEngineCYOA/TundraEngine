@@ -1,0 +1,12 @@
+1
+|	You thanked him for his time and leave. Your mind begins to race with
+|	what you could find or who you may find.
+
+|	What do you do?
+
+|	1. Walk to the nearest street.
+|	2. Search the area.
+
+@
+1 53
+2 54

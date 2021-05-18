@@ -1,0 +1,14 @@
+1
+|	You walk around a small portion of the area and soon discover a dry
+|	fountain. In the center is a statue of a woman holding a single flower
+|	out to you, it looks honestly looks to be carved out of a single piece
+|	stone. The fountain sadly is over grown with moss and roots.
+
+|	What do you do?
+
+|	1. Search the fountain.
+|	2. Try to take the flower.
+
+@
+1 38
+2 39

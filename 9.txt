@@ -1,0 +1,13 @@
+1
+|	You stand a few feet away from the stranger and give a simple greeting.
+|	But as you wait a few moments and recieve no response. You take a step
+|	closer and then the limp arm of the dead Priest falls.
+
+|	What do you do?
+
+|	1. Examine the alter.
+|	2. Leave the Church.
+
+@
+1 10
+2 11

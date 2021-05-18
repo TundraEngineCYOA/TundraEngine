@@ -1,0 +1,15 @@
+1
+|	Without a moment to spare you quickly jump back and instantly start
+|	running for your life. Jumping down the stairs you uickly look back
+|	and see that the strange being is gone. But this doesn't cause you
+|	to stop running and soon you turn down an alley and are at a fork in
+|	the road.
+
+|	What do you do?
+
+|	1. Turn Left.
+|	2. Turn Right.
+@
+1 101
+2 102
+

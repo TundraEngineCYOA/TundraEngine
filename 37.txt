@@ -1,0 +1,13 @@
+1
+|	You figure what's the worse that can happen and just as you take the
+|	first step, you hear someone call out to you. They give you a warning 
+|	that it's not wise in angering the Gods. But you don't see a soul in 
+|	sight.
+
+|	What do you do?
+
+|	1. Return to the path.
+
+@
+1 32
+

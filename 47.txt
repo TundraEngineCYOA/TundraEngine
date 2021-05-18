@@ -1,0 +1,16 @@
+1
+|	It came with the dawn and soon it took the lives of everyone. A stranger
+|	who we have never seen before walked into our world and within about a
+|	few days time. People were getting sick and within a short span of time
+|	our mighty numbers dropped by half. Fear over took the minds of those
+|	remaining and soon neighbour turned on neighbour and family against
+|	family. Soon the streets were stained by the blood of the innocent.
+
+|	What do you do?
+
+|	1. Who was the Stranger?
+|	2. Are you here alone?
+
+@
+1 51
+2 48

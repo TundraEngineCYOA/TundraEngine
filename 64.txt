@@ -1,0 +1,16 @@
+1
+|	Slowly, you enter the alley. Not knowing just what or who you'll
+|	see. But seeing not a soul your mind begins to race with who could've
+|	lit the candle? Just what forces are within this dark realm of a
+|	forgotten world. An eerie silence comes over the whole area as suddenly
+|	a winged creature in the distance of a few buildings away leaps into
+|	the air.
+
+|	What do you do?
+
+|	1. Follow the Stranger.
+|	2. Explore the area.
+@
+1 65
+2 66
+

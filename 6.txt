@@ -1,0 +1,13 @@
+1
+|	You approach the figure sitting perfectly still. They are wearing an old
+|	brown robe with it covering their face.
+
+
+|	What do you do?
+
+|	1. Speak to the stranger.
+|	2. Ignore them and examine the alter.
+
+@
+1 7
+2 5

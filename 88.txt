@@ -1,0 +1,14 @@
+1
+|	She stands before you and she's wearing an out of place dress. She
+|	turn to face you and reveals her pale face and sunken eye's. Her
+|	hair is unwashed and looks as if it's going to fall out at anytime.
+|	She just stares balnky at you.
+
+|	What do you do?
+
+|	1. Talk to her.
+
+@
+1 89
+
+

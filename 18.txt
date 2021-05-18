@@ -1,0 +1,13 @@
+1
+|	You are standing before the mouth of the cave. The sound of water dripping echoes
+|	and soon an eerie silence surrounds you. As if you are wandering into unknown
+|	danger.
+
+|	What do you do?
+
+|	1. Walk deeper into the cave.
+|	2. Call out into the darkness.
+
+@
+1 16
+2 17

@@ -1,0 +1,13 @@
+1
+|	You see the alter carved out of stone and is stained with what you hope isn't
+|	blood. The stone is slightly burnt most likely from burning an offering. It
+|	sppears to have been used recently.
+
+|	What do you do?
+
+|	1. Make an offering.
+|	2. Venture into the unknown.
+
+@
+1 24
+2 26

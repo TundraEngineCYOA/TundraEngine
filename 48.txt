@@ -1,0 +1,14 @@
+1
+|	Are you here alone? You ask.
+|
+|	I'm not sure. There might be a few left either living in the shadows
+|	or in the Temple. Perhaps those who were smart decided to leave this
+|	hellish pllace.
+
+|	What do you do?
+
+|	1. Tell me of the Speaker.
+
+@
+1 49
+

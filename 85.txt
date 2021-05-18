@@ -1,0 +1,12 @@
+1
+|	Across the street you see a dark figure walk past a window. Believing
+|	that it might be another person, you decide to check it out.  
+
+|	What do you do?
+
+|	1. Call out to the Stranger.
+|	2. Search the home.
+@
+1 96
+2 97
+

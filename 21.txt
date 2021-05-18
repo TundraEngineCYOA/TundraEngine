@@ -1,0 +1,17 @@
+1
+|	You are standing at a vast area, carved out of the Earth, as torches give off
+|	much light revealing a large stone statue of a forgotten God or perhaps a king?
+|	There are many stone benches placed around the statue most likely to pray too.
+|	A large alter used to give gifts rests at it's feet. Behind the statue is a
+|	large entranceway leading to an unknown place.
+
+|	What do you do?
+
+|	1. Examine the Statue.
+|	2. Search the alter.
+|	3. Venture into the unknown. 
+
+@
+1 22
+2 23
+3 24

@@ -1,0 +1,13 @@
+1
+|	You are outside the church. The clouds begin to turn dark as it looks like 
+|	rain is on it's way. The wind slowly begins to pick up and in the distance
+|	you see a worn out path.
+
+|	What do you do?
+
+|	1. Take the path.
+|	2. Wander the valley.
+
+@
+1 12
+2 13

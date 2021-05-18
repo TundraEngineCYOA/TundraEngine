@@ -1,0 +1,13 @@
+1
+|	Taking a moment, you sit down in the chair and look over the room.
+|	Books are scattered everywhere as if someone was either searching
+|	for something or either lived a messy life.
+
+|	What do you do?
+
+|	1. Attempt to read the books.
+
+@
+1 87
+
+

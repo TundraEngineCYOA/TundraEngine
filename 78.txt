@@ -1,0 +1,14 @@
+1
+|	You enter another room and find yourself alone, not a corpse in sight,
+|	and for that matter it appears to be a reading room. With a desk and
+|	chair with books scattered about. A lite candle is all that greets you
+|	dancing as it consumes oxygen.
+
+|	What do you do?
+
+|	1. Sit down.
+|	2. Search the reading material.
+@
+1 86
+2 87
+

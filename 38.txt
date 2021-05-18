@@ -1,0 +1,11 @@
+1
+|	You search the fountain and alas can't find anything of use other than
+|	moss and old dead roots. Just what were you thinking you'd find? Might
+|	as well get out of this fountain.
+
+|	What do you do?
+
+|	1. Get out of the fountain.
+
+@
+1 34

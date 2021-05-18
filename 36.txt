@@ -1,0 +1,15 @@
+1
+|	You walk along the path just wondering what sites await you. Perhaps
+|	you might see any form of life other than a plant? Or maybe some great
+|	treasure? Your mind begin's racing with the possibilites. And soon you
+|	find yourself standing before a small dwelling. Built out of stone with
+|	a flickering light. Perhaps someone's home?
+
+|	What do you do?
+
+|	1. Enter the home.
+|	2. Keep walking.
+
+@
+1 40
+2 41

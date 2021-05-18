@@ -1,0 +1,14 @@
+1
+|	Turning down the street you see what appears to be a bench next
+|	to a small grove. It looks to be a small park of sorts. It looks
+|	inviting and you sure would too take in the sights. The tree's
+|	appear to bare fruit.
+
+|	What do you do?
+
+|	1. Sit on the bench.
+|	2. Examine the tree.
+
+@
+1 60
+2 61

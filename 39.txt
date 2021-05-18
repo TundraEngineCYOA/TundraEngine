@@ -1,0 +1,13 @@
+1
+|	You stand in the fountain and are taken a back by just how life like
+|	the statue is. The flower it's holding looks truly breath taking. So
+|	without a second thought you attempt to take it from out her hand, but
+|	you just can't reach it. If only you were a little bit taller.
+
+|	What do you do?
+
+|	1. Get out of the fountain.
+
+@
+1 31
+

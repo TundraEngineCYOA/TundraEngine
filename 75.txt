@@ -1,0 +1,13 @@
+1
+|	Walking down the many streets and seeing nothing but empty homes
+|	and desserted streets.You feel as if you've been walking for hours
+|	and soon you take a moment to rest your feet and gain your barrings.
+
+|	What do you do?
+
+|	1. Take a break.
+|	2. Decide to search a home.
+@
+1 84
+2 85
+

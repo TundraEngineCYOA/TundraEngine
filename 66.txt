@@ -1,0 +1,13 @@
+1
+|	You wander the area and soon discover what seems to be a cemetary.
+|	The entranceway resembles that of a shrine with pillars and statues
+|	as the calming scent of insense wofts in the air. 
+
+|	What do you do?
+
+|	1. Explore the Cemetary.
+|	2. Avoid the Cemetary.
+@
+1 69
+2 70
+

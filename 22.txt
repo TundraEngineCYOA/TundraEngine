@@ -1,0 +1,14 @@
+1
+|	The statue towers over you at around twenty feet. It's of a being wearing armour
+|	and a helmet. Holding a staff as if calling out to a higher power. The stone used
+|	is smooth and appears to be all made from a single piece of rock. The time put into
+|	it's creation must've taken some time.
+
+|	What do you do?
+
+|	1. Pay your respects.
+|	2. Leave the room.
+
+@
+1 25
+2 24

@@ -1,0 +1,11 @@
+1
+|	The valley comes to an end as you reach the rock covered walls covered in dirt
+|	and moss. It's honestly a beautiful sight that gives you a sense of wonder.
+
+|	What do you do?
+
+|	1. Return to the cave.
+
+@
+1 16
+

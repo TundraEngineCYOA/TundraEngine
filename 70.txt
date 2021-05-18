@@ -1,0 +1,16 @@
+1
+|	You decide to avoid the Cemetary for the time being. If what the
+|	Old Man said was to be true, then it would wise not to tempt the
+|	spirits at any cost. As you walk along the street in the distance
+|	you see what can only be described as official buildings and just
+|	Past them you see what appears to be the Temple that the Old Man
+|	had mentioned before.
+
+|	What do you do?
+
+|	1. Go to the Temple.
+|	2. Continue exploring the city.
+@
+1 74
+2 75
+

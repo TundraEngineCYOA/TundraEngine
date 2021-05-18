@@ -1,0 +1,16 @@
+1
+|	Waiting outside seems to be the best idea you've had so far. It
+|	would be foolish to run into any place without a plan. But you
+|	quickly change your mind when you look up and see the figure of
+|	a young woman. Her expression is one of cold and unnerving in 
+|	such a way that makes you uncomfortable. But you want to know 
+|	just what her story is.
+
+|	What do you do?
+
+|	1. Enter the building.
+
+@
+1 67
+
+

@@ -1,0 +1,12 @@
+1
+|	Taking a moment to stand perfectly still. Nothing but silence can be
+|	heard and soon you quickly call out in the hopes someone would answer.
+|	Sometime passes and soon you are greeted with silence.
+
+|	What do you do?
+
+|	1. Investigate the Store.
+
+@
+1 57
+

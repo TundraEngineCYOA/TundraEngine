@@ -1,0 +1,10 @@
+1
+|	You decide it's time to make your way down deeper into the unknown cave. With
+|	every step you take it echoes as if you are being followed. 
+
+|	What do you do?
+
+|	1. Continue on through the cave.
+
+@
+1 16

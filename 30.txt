@@ -1,0 +1,14 @@
+1
+|	You wander around the area until you spot in the distance an arch
+|	way with a golden sun...it looks like gold. You feel yourself drawn
+|	to it, but you fight the urge. Best to leave things untouched...for
+|	now.
+
+|	What do you do?
+
+|	1. Walk through the arch.
+|	2. Venture into the unknown.
+
+@
+1 32
+2 33

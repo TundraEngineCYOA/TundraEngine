@@ -1,0 +1,13 @@
+1
+|	You sit down opposite of the old man. As the fire burns, he opens his
+|	eye's and greets you with a nod and a worn smile. His hair is as white
+|	as snow.
+
+|	What do you do?
+
+|	1. Greet the old man.
+|	2. Speak to the old man.
+
+@
+1 44
+2 43

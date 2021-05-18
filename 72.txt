@@ -1,0 +1,15 @@
+1
+|	You slowly wander around the first floor of the building and make
+|	a horrific discovery. Being that oh piles of bodies covered with  
+|	blankets to give the dead a final shred of dignity. There's no
+|	telling how long they've been here, but it's best not to stick
+|	around.
+
+|	What do you do?
+
+|	1. Search another room.
+|	2. Find a way to the second floor.
+@
+1 78
+2 79
+

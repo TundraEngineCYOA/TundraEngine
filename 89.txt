@@ -1,0 +1,29 @@
+1
+|	Putting your hands up and showing her that you mean her no harm in
+|	the slighest. She keeps her eyes on you without blinking just waiting
+|	for whatever she thinks you'll do next.
+
+|	How long have you been here? Are you okay? You ask.
+
+|	Who are you? What are you doing here? Are you one of them?
+
+|	One of who? You ask, wondering who else is around here.
+
+|	A hunter! They come from outskirts in the night and raid our homes and
+|	steal from our dead. They are vultures who will stop at anything to
+|	take what is ours.
+
+|	Well I'm not a hunter nor am I the type who would steal from the dead.
+|	I've already been told not to touch a single thing from the Old Man. You
+|	say.
+
+|	The Old Man? Do you mean Alister? 
+
+|	What do you do?
+
+|	1. Alister's his name?
+|	2. What have you been doing to survive?
+@
+1 99
+2 100
+

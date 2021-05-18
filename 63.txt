@@ -1,0 +1,17 @@
+1
+|	Entering the store room you are greeted by a lit candle placed on
+|	the top of a bottle. It rests on the center of the table. Who lit
+|	it? Just as quickly search the small room, you find that you are
+|	alone and suddenly the wind picks up and the blanket hanging on the
+|	wall is moving a bit. You pull it back and reveal a small door that
+|	leads into a backalley. Whatever is going on your not alone...that's
+|	for sure. 
+
+|	What do you do?
+
+|	1. Go to the Alley.
+|	2. Return to the Store.
+@
+1 64
+2 57
+

@@ -1,0 +1,18 @@
+1
+|	The artwork is truly impressive. They tell the story of how their
+|	God has created the world by means of creating everything out of
+|	wood. By the act of carving the world, the animals, tree's, and
+|	the people. Told by the blankets that were said to be a gift to
+|	keep them warm. So blankets are the canvas that hold their stories.
+|	That's just my thoughts on the subject but it would make sense if
+|	that was the case. Though the images are up for interpatation to
+|	say the least.
+
+|	What do you do?
+
+|	1. Take the Artwork.
+|	2. Search the place.
+@
+1 76
+2 77
+

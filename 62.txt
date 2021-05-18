@@ -1,0 +1,16 @@
+1
+|	Walking through the aisles of the once busy store honestly takes
+|	you back to your own experiences in dealing with everyday life. It's
+|	funny with how similair that life is no matter with what place in 
+|	the world you are. Something catches your eye...a flickering candle
+|	light that dances in the backroom.
+
+|	What do you do?
+
+|	1. Search the back.
+|	2. Leave the store
+
+@
+1 63
+2 57
+

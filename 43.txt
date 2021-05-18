@@ -1,0 +1,18 @@
+1
+|	I know why you've come here. I know al there is about this world and I
+|	know what you seek.
+|
+|	What do I seek exactly? You ask.
+|
+|	You seek the answers within the temple, the temple holds many secrets
+|	and treasures. But to obtain them, you must be willing to earn them,
+|	for the price often one's own life.
+
+|	What do you do?
+
+|	1. What dangers await me.
+|	2. Where is the Temple.
+
+@
+1 45
+2 46

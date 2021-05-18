@@ -1,0 +1,16 @@
+1
+|	Empty buildings, empty homes, void of life. Such silence would drive
+|	anyone insane over a period of time. A building catches your eye, it
+|	looks to be some sort of shop. Baskets are lined up infront of it as
+|	a wooden sign hands from above the door. Written in a language long
+|	since forgotten. The door slowly creeks open and this gives you hope
+|	of maybe finding someone else in this forgotten land.
+
+|	What do you do?
+
+|	1. Investigate the Store.
+|	2. Call out to whoever is in there.
+
+@
+1 57
+2 58

@@ -1,0 +1,14 @@
+1
+|	You turn a corner and find a staircase to the second floor. Slowly,
+|	walk up the stone steps and find yourself standing before a wide
+|	open room of sorts and there in the distance you see the young woman
+|	who you saw from the window. 
+
+|	What do you do?
+
+|	1. Examine the woman.
+|	2. Talk to the woman.
+@
+1 88
+2 89
+

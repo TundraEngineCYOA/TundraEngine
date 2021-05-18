@@ -1,0 +1,14 @@
+1
+|	You make your way to the old dusty single pane glass window and attempt
+|	to look through it. In the hopes of finding another soul or perhaps a 
+|	sign of human occupation. But all you see is nothing it's too dark to see 
+|	if anyone or thing is there.
+
+|	What do you do?
+
+|	1. Open the window.
+|	2. Head to the door.
+
+@
+1 10
+2 5

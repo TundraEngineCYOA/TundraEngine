@@ -1,0 +1,24 @@
+1
+|	You are amazed by the vast entrance to the Temple. Large stone
+|	statues tower over you, with arms raised to the sky and in the
+|	center of the entrance is a large carved sun. Columns carved to
+|	resemble that of snakes stretch in such a way that you are truly
+|	amazed by it. It's almost something from another world. Walking
+|	around the entrance you find many amazing things from statues, to
+|	carvings, and ever fountains that seem to be still functional. 
+|	A large staircase leads to the second floor to what is anyone's
+|	guess.
+
+|	What do you do?
+
+|	1. Examine the Statues.
+|	2. Examine the Carvings.
+|	3. Examine the Fountains
+|	4. Go to the second floor.
+
+@
+1 92
+2 93
+3 94
+4 95
+

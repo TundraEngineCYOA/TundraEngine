@@ -1,0 +1,12 @@
+1
+|	You decide it's best if you leave the Church and continue on your 
+|	journey else where through the land.
+
+|	What do you do?
+
+|	1. Wander through the valley.
+|	2. Take a moment to take in the view.
+
+@
+1 11
+2 1

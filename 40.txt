@@ -1,0 +1,15 @@
+1
+|	You decide to take the first step into the unknown and slowly make your
+|	way into the small stone home. There you see a small fire burning in the
+|	center of the room. With worn out blankets hanging off the walls as 
+|	decorations perhaps? Sitting down while facing the door is an OLD MAN,
+|	who's sitting on a pillow, he appears to have been waiting for you.
+
+|	What do you do?
+
+|	1. Sit down by the fire.
+|	2. Talk to the Old Man.
+
+@
+1 42
+2 43

@@ -1,0 +1,10 @@
+1
+|	You decide to stay in the Church and as a few moments pass and you
+|	decide that it's time to leave.
+
+|	What do you do?
+
+|	1. Leave the Church.
+
+@
+1 11

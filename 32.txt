@@ -1,0 +1,14 @@
+1
+|	The arch towers over you as if it was built in memory of a battle or
+|	perhaps the liberation or victory of a great battle. Such a sight to
+|	behold. I honestly am taken a back from this wonderful stone and gold
+|	structure. As you walk through the arch, you stumble onto a stone path.
+
+|	What do you do?
+
+|	1. Travel on the path.
+|	2. Attempt to climb the arch.
+
+@
+1 36
+2 37

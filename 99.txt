@@ -1,0 +1,15 @@
+1
+|	His name is Alister? You ask.
+|
+|	Yes, he's now the town's record keeper. Before the dark times had fallen
+|	upon us he was seen as a storyteller. Telling long tales of the days before
+|	the God Speakers about those great warriors who took the gifts of creation
+|	and gave them to the people so that they can live a life of peace.
+
+|	What do you do?
+
+|	1. What have you been doing to survive?
+
+@
+1 100
+

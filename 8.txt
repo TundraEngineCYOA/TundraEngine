@@ -1,0 +1,15 @@
+1
+|	You open the massive book and flip through the pages. It tells the
+|	story of how the lands were created by the God of thir faith. It 
+|	speaks about the great evil that lurkes in the darkness of complete
+|	chaos. You feel more intrigued to read onwards but you don't feel.
+|	comfortable staying here any longer. 
+
+|	What do you do?
+
+|	1. Leave the Church.
+|	2. Stay a bit longer.
+
+@
+1 9
+2 7

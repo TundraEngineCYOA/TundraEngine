@@ -1,0 +1,14 @@
+1
+|	You reach out and place your hand on the monolith. It's warm to the
+|	touch. How very odd amost as if somethings burning inside? Slowly,
+|	you remove your hand and turn around and see a cloaked figure who's
+|	face is hidden.
+
+|	What do you do?
+
+|	1. Run away.
+|	2. Greet the figure.
+@
+1 90
+2 91
+

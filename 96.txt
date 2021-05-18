@@ -1,0 +1,12 @@
+1
+|	Not knowing what to expect from who or what is within the home. You decide
+|	it would be for the best if you call out to whoever is within the building.
+|	So you do and within a few moment you hear what sounds like a pot breaking.
+
+|	What do you do?
+
+|	1. Search the home.
+
+@
+1 97
+

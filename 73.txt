@@ -1,0 +1,16 @@
+1
+|	Slowly, you take your time and climb the staircase. Your mind is
+|	filled with thoughts of fear. Not knowing just what or whom you'll
+|	see. A cool breeze brushes past you and you don't feel alone. You
+|	Are standing before a large memorial, carved to resemble that of a
+|	monolith, and it towers over you with such a presenses that you are
+|	taken a back from it.
+
+|	What do you do?
+
+|	1. Examine the monolith.
+|	2. Touch the monolith.
+@
+1 80
+2 81
+
