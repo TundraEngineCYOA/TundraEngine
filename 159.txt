@@ -1,0 +1,15 @@
+1
+|	You attempt to find a place to hide and finally find a door. Without
+|	giving it a second thought you enter the room and slowly close the
+|	door. You wait and soon see a disfigured individual slowly limp past
+|	you. Their wearing a white robe stained with what appears to be blood.
+|	Your filled with fear and hope to God they don't spot you.
+
+|	What do you do?
+
+|	1. Stay perfectly still.
+
+@
+1 195
+
+

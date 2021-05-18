@@ -1,0 +1,16 @@
+1
+|	You greet the woman and she returns with the same and a smile. She  
+|	doesn't look that surprised to see you. She makes her way over to
+|	you and puts her hands on your shoulders.
+
+|	You are a visitor with good in your heart. I can tell, I can see your
+|	energy and it's bright. 
+
+|	What do you do?
+
+|	1. Tell me of your faith.
+|	2. Are you the only one here?
+@
+1 125
+2 126
+

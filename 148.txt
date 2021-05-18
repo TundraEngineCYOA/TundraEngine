@@ -1,0 +1,10 @@
+1
+|	Walking around the area, your footsteps echo through the ruins, and soon
+|	you arrive at a statue.
+
+|	1. Examine the statue.
+
+@
+1 182
+
+

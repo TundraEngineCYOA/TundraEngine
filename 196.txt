@@ -1,0 +1,13 @@
+1
+|	Going up the stairs, you come to a small landing that leads to another
+|	staircase that goes to God knows where. A small window gives an amazing
+|	view to the land below.
+
+|	What do you do?
+
+|	1. Lookout the window.
+|	2. Keep moving.
+@
+1 248
+2 249
+

@@ -1,0 +1,14 @@
+1
+|	Entering the Shrine and standing in the entrance insense are carried
+|	in the air. Bells and flowers hang from the walls and the floor is
+|	covered in a dark red rug. As you take a few more steps you see an
+|	Old Woman lighting some candles. It doesn't appear that she see's you.
+
+|	What do you do?
+
+|	1. Greet the Woman.
+
+@
+1 112
+
+

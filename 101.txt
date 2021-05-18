@@ -1,0 +1,14 @@
+1
+|	Without a moment to spare you turn left and just keep running until
+|	you run out of steam. Checking behind you, you see that your alone.
+|	Catching your breath, you find yourself standing before what appears
+|	to be a shrine of some sort.
+
+|	What do you do?
+
+|	1. Enter the Shrine.
+
+@
+1 103
+
+

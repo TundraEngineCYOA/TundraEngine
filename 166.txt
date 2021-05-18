@@ -1,0 +1,14 @@
+1
+|	Without giving a second though, you quickly move through the long
+|	and narrow veins of this tomb. Bodies stacked everywhere in such
+|	a weird fashion almost as if they've been harvested. Or so you think,
+|	your not one to investigate to say for sure.
+
+|	What do you do?
+
+|	1. Keep searching the area.
+|	2. Leave this place.
+@
+1 205
+2 206 
+

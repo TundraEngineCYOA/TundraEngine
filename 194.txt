@@ -1,0 +1,18 @@
+1
+|	Slowly, you make your way down the eerie hallway. Slowly, you see something
+|	on the walls and the smell of rotten flesh fills the air. You stop in your
+|	tracks as you hear the muffled groans of someone in pain. A chill runs down
+|	your spine as the groans grow louder.
+
+|	can be heard.
+
+|	What do you do?
+
+|	1. Examine what's on the wall.
+|	2. Find the source of the groans.
+|	3. Leave
+
+@
+1 244
+2 245
+3 246

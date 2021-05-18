@@ -1,0 +1,12 @@
+1
+|	Without a moment to spare, you collect your thoughts, and you leave 
+|	not wanting to be anywhere near those corpses. 
+
+|	What do you do?
+
+|	1. Keep searching the area.
+|	2. Leave this place.
+@
+1 165
+2 166
+

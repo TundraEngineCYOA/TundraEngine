@@ -1,0 +1,15 @@
+1
+|	We lived within the shadows hiding from those who were once believed
+|	to be friends, family, an the like. People were becoming scared, after
+|	the mere fact that God had forsaken us and soon those who survived the
+|	the worst either left or decided to stay and break away from the old
+|	ways. These are dark times for us and soon the light will return.
+
+|	What do you do?
+
+|	1. When will the light return?
+
+@
+1 222
+
+

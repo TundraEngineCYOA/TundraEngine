@@ -1,0 +1,23 @@
+1
+|	Making your way to the door without making a sound, you build up the
+|	nerves to lookout at the source of the voices. Taking a moment to
+|	make your move. She puts her hand on your shoulder trying to stop you
+|	from getting caught. But as you pierce from the opening of the door
+|	you see a roaming horde of of masked people.
+
+|	They have to be here? One of them says.
+
+|	You said they were here...then where are they? Another says in an
+|	angry tone.
+
+|	Silence fills the air and you can hear your heart beat like a jackhammer
+|	pounding through your chest. At any moment you can be spotted and killed.
+|	or worse. 
+
+|	1. Keep listening.
+|	2. Move away from the door.
+
+@
+1 170
+2 171
+

@@ -1,0 +1,14 @@
+1
+|	The sounds of your footsteps echo through the area. As you soon find 
+|	yourself standing in what appears to be a meeting room of some sort.
+|	A large table the must be a few hundred feet, with hand carved chairs,
+|	and what appears to be already set.
+
+|	What do you do?
+
+|	1. Sit down at the table.
+|	2. Keep moving.
+@
+1 132
+2 133
+

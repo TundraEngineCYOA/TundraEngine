@@ -1,0 +1,50 @@
+1
+|	As the two of you slowly walk down the bare street, void of any life,
+|	as you look around the main life line of this world. It is honestly
+|	unnerving in a way.
+
+|	How long have you been alone? She asks.
+
+|	The two of you enter the building in the hopes of finding a place to
+|	hide until that...thing leaves. The two of you sit across from each
+|	other. Silence fills the place as the cries of that fowl creature can
+|	be heard. 
+
+|	*Whispering* Do you think it knows where we are? You ask.
+
+|	She shakes her head and slowly to the doorway. With not even blinking
+|	for a minute, she turns to you and says.
+
+|	*Whispering* Knowing our luck it's toying with us. But I don't think
+|	that's going to happen to us...not yet.
+
+|	*Whispering* What is that thing? You ask.
+
+|	*Whispering* After the collapse of normal life, many began to believe in
+|	the old ways, back before the Speaker changed everything. The belief of
+|	offering human lives, eating them, and believing that they are God's them-
+|	selves. After a few years they began to change, they began to believe they
+|	were the true rulers of this place. The killings and eating of people has
+|	driven them mad. Before you arrived they were everywhere, but lately there
+|	have been a lot less of them around.
+
+|	*whispering* Are they still alove?
+
+|	*Whispering* Who?
+
+|	*Whispering* The Speaker?
+
+|	*Whispering* No one knows. Some say the Speaker ascended to the sky and others
+|	others think they are controlling the chaos.
+
+|	Before she could finish, a groan can be heard what sounds ike it's just a 
+|	few yards away. The two of you both look to the door and waiting in an
+|	eerie silence.
+
+|	1. Wait in silence.
+|	2. Lookout the door.
+
+@
+1 170
+2 171
+

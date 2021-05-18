@@ -1,0 +1,18 @@
+1
+|	Educate? In what sense?
+
+|	By showing you the light of our God. By taking you to the Speaker.
+
+|	The Speaker? You ask, wondering just what will happen if you say yes.
+|	It's honestly something that does intrigue you.
+
+|	What do you do?
+
+|	1. I would like to meet the Speaker.
+|	2. No thank you.
+
+@
+1 242
+2 243
+
+

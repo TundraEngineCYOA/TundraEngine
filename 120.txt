@@ -1,0 +1,13 @@
+1
+|	The room is littered with clothes, piles of clothes strewn about the
+|	area. Either someone was in a hurry or someone else is here and they
+|	have sticky fingers. 
+
+|	What do you do?
+
+|	1. Search the clothes.
+
+@
+1 138
+
+

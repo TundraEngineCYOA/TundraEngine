@@ -1,0 +1,16 @@
+1
+|	Hello...anybody home? You ask.
+
+|	Nothing but silence, silence that makes you think that someone is hiding
+|	or perhaps waiting for you to fall for a trap.
+
+|	What do you do?
+
+|	1. Call out again.
+|	2. Investigate the area.
+
+@
+1 211
+2 212
+
+

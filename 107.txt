@@ -1,0 +1,14 @@
+1
+|	You enter what appears to be the bedroom. It's very basic in appearance
+|	and just consists of a small bed, a table, with a few books.
+
+
+|	What do you do?
+
+|	1. Sit on the bed.
+|	2. Search the books.
+
+@
+1 117
+2 118
+

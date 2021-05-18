@@ -1,0 +1,27 @@
+1
+|	Sorry, I didn't mean to bother you. You said.
+
+|	No...no...you didn't bother me. It's just strange to hear from another soul
+|	not from this land. It gets lonely here at times. Everything is a fight and
+|	it truly breaks the spirit...I'm just tired is all...tired of this damned
+|	place.
+
+|	What happened here? You ask, you can feel your curiosity growing.
+
+|	Madness happened. The greed of power, the wanting it, and turning their backs
+|	on those in need. I have seen it...I have seen it all...the deaths. The pools
+|	of blood, the feasting on the flesh of the recently killed, and I have turned
+|	mad cause of it. 
+
+|	You begin to wonder if what this odd person says is true? It would answer
+|	why this place is scarce of people or perhaps why everything looks to have
+|	been recently abandoned.
+
+|	What do you do?
+
+|	1. Is that why everyone's gone?
+|	2. Tell me of the Speaker.
+@
+1 235
+2 236
+

@@ -1,0 +1,16 @@
+1
+|	Getting on your feet, you find yourself in another world. The grass
+|	green and sky is blue, a soft wind brushes past you and the warmth
+|	of the sun gives you goosebumps. It's something your not use too.
+|	It feels so alien to you and yet you honestly enjoy it. In the 
+|	distance you see a small stream and it looks like something out of
+|	a painting.
+
+|	What do you do?
+
+|	1. Head to the stream.
+|	2. Go for a walk.
+@
+1 198
+2 199
+

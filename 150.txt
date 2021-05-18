@@ -1,0 +1,14 @@
+1
+|	Without a moment to spare you decide it would be best to leave. As
+|	you leave the place you can hear in the distance what appears to be
+|	crying. it sounds like a baby and with that you decide to still
+|	leave. As you quickly run the crying turns to laughter.
+
+|	What do you do?
+
+|	1. Run away.
+
+@
+1 184
+
+

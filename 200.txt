@@ -1,0 +1,13 @@
+1
+|	You hike through the wilderness until you see the source of the
+|	smoke. A small camp is setup under what appears to be an apple
+|	tree of sorts. Sitting near the fire cooking a piece of unknown
+|	meat over the small flames. He looks up and notices you and waves
+|	you over inviting you to his camp site. 
+
+|	1. Go to the camp site.
+
+@
+1 255
+
+

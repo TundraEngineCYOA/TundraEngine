@@ -1,0 +1,14 @@
+1
+|	You make your way towards the small stack of books whose titles you 
+|	can't read. You slowly flip through the books and find many with
+|	pictures of cave systems and of mountains. This must be a history book  
+|	you think or perhaps what awaits you within this hidden world.
+
+|	What do you do?
+
+|	1. Leave the room.
+|	2. Go to bed.
+@
+1 134
+2 135
+

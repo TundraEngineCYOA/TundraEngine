@@ -1,0 +1,12 @@
+1
+|	Roaming around the area, you find a world left forzen in time. Everyday
+|	items, stuff you wouldn't just leave behind for a long period of time.
+|	Though this time something doesn't feel right...something feels off and
+|	within a minute you hear movement coming from beneath the floor. 
+
+|	1. Call out to who's beneath you.
+|	2. Stomp on the floor.
+@
+1 173
+2 174
+

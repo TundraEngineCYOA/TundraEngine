@@ -1,0 +1,21 @@
+1
+|	With nowhere to go and nowhere to hide. You stand ready for whatever is 
+|	heading towards you and as you stand ready for whatever comes your way.
+|	The door opens and a small group of Hunters stand before you, they've
+|	been following you for quite sometime now.
+
+|	May I help you? You ask, thinking that this might be the end and why
+|	not go out on a final laugh.
+
+|	Outsider, why have you come here? Says the leader of the group. Dressed
+|	in a torn old robe and wearing a pair of old glasses.
+
+|	1. I'm an explorer.
+|	2. I'm trying to find the Speaker.
+|	3. I don't honestly know.
+
+@
+1 226
+2 227
+3 228
+

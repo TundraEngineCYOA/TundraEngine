@@ -1,0 +1,13 @@
+1
+|	As you search the corpses of the dead, you make a shocking discovery
+|	that many of these bodies are fresh, well as fresh as a couple of weeks.
+|	Just what is going on in this hidden world of insanity?
+
+|	What do you do?
+
+|	1. Pay your respects.
+|	2. Keep moving.
+@
+1 163
+2 164
+

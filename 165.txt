@@ -1,0 +1,18 @@
+1
+|	You search the area and continue finding nothing but death and 
+|	decay. A world forever lost in death, but what caused it? What
+|	brought them to this point? You think it might've been a brief
+|	stint of insanity brought upon a lack of proof that their God
+|	was actually there. But that all changes as you see the figure
+|	of an unknown origin stumble through the area like that of a
+|	zombie.
+
+|	What do you do?
+
+|	1. Help the person.
+|	2. Ask if their okay.
+
+@
+1 203
+2 204
+

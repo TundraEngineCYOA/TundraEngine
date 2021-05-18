@@ -1,0 +1,16 @@
+1
+|	You decide to take a short walk and enjoy the breath taking scenery
+|	until these sadly has to come to the end. While you walk around the
+|	the the area you soon discover a small village just over the horizon.
+|	With it, you can hear the chatter of people, farm animals, and the 
+|	occasional song. As smoke climbs up to the sky, you feel truly at
+|	peace here.
+
+|	What do you do?
+
+|	1. Go to the villiage.
+
+@
+1 254
+
+

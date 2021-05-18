@@ -1,0 +1,12 @@
+1
+|	Giving a moment of silence, you look over the bodies of the dead. But
+|	you have to keep moving before you end up joining them.
+
+|	What do you do?
+
+|	1. Keep moving.
+
+@
+1 201
+
+

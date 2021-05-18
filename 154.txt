@@ -1,0 +1,16 @@
+1
+|	Slowly you make your way to the end of the table and as you place your
+|	hands on the table cloth. And with a single motion you lift up the cloth
+|	over the table. Then suddenly the music stops and just then you look
+|	beneath the table and there sitting perfectly still and holding a music
+|	box is a little girl. She looks at you with sunken and dead eye's, looking
+|	like a living creepy doll.
+
+|	What do you do?
+
+|	1. What are you doing here?
+
+@
+1 189
+
+

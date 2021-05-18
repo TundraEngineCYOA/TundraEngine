@@ -1,0 +1,11 @@
+1
+|	The statue towers over you and looks up to the heavens like a mighty
+|	warrior. It stands with a shield in full armor like that of going
+|	into battle. A stone tablet lyes at it's feet.
+
+|	1. Examine the tablet.
+
+@
+1 225
+
+

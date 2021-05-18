@@ -1,0 +1,16 @@
+1
+|	Leaving the area, you find yourself standing before a small child, 
+|	wearing clothes that are three sizes to big for him, and a moment
+|	passes by as he points to someone off into the shadows, and just
+|	as you turn you see a six foot tall grizzly looking man wearing a
+|	an old and weathered white robe. 
+
+|	What do you do?
+
+|	1. Greet them.
+|	2. Attempt to run.
+
+@
+1 207
+2 208
+

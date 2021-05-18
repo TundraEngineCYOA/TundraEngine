@@ -1,0 +1,13 @@
+1
+|	Rather than sticking around, you figure why not keep moving. Taking
+|	in the sights, you slowly reach the double wide doors that are carved
+|	to resemble a sun.
+
+|	What do you do?
+
+|	1. Open the door.
+
+@
+1 158
+
+

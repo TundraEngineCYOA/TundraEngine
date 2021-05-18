@@ -1,0 +1,22 @@
+1
+|	Are you the Speaker? You ask, with a sense of nervousness.
+
+|	The Speaker? Oh, no I am merely one of their humble servants. I prepare the
+|	day for them and so with that I am the one many hands of God.
+
+|	What is going on here? People are gone? The place is in ruins. What have
+|	you people been doing? 
+
+|	We have been growing as a society. We have become one with God and the
+|	Speaker has given us all the glory. Where are your from? The darkness?
+|	The outlands? Or perhaps you came from the outskirts?
+
+|	
+|	What do you do?
+
+|	1. I came from the surface.
+|	2. How do I get to see the Speaker?
+@
+1 185
+2 186
+

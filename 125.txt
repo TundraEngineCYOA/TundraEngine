@@ -1,0 +1,22 @@
+1
+|	I follow the faith of my ancestors, the faith of Hydoc, the God of the
+|	sun. Since the beginning of time he has given us much in our lives. He
+|	has chased the evil out by giving us light. 
+
+|	How can you find solice in faith with all that's happened? You ask.
+
+|	If you look at it like that, you will forever be living with a grim
+|	look in life, sometimes you need something that brings you peace.
+
+|	You take a few moments to think over what she has said and realize that
+|	during this time that faith maybe is the best element in dealing with
+|	life.
+
+|	What do you do?
+
+|	1. Tell me the story of creation.
+|	2. How large is your flock?
+@
+1 144
+2 145
+

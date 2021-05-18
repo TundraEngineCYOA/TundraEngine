@@ -1,0 +1,17 @@
+1
+|	She says nothing and refocuses on the music box.
+
+|	Hey...what are you doing here? Are you okay? You ask, concerned.
+
+|	She stops what she's doing and looks back up too you and lets out a
+|	sigh. Something isn't right about this and just as you step back she
+|	fades away into nothing.
+
+|	What do you do?
+
+|	1. Lower the table cloth.
+
+@
+1 237
+
+

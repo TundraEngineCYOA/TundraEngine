@@ -1,0 +1,13 @@
+1
+|	Who are you? What are you doing here? The strange man says. He looks at you
+|	with a expression of shock. You figure that they don't really get many visitors
+|	in this place.
+
+|	What do you do?
+
+|	1. Confront him.
+|	2. Attempt to leave.
+@
+1 187
+2 188
+

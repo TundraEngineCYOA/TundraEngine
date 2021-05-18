@@ -1,0 +1,28 @@
+1
+|	The two of you quickly run and take cover behind a wooden fence.
+|	Not knowing what to expect you check your surroundings and see
+|	vacant ruins of abandoned homes. And before you can even say a
+|	word you are dragged into the small opening of what appears to
+|	be a small storage area holding supplies like grain.
+
+|	I think we'll be safe here. 
+
+|	What was that? You ask.
+
+|	A Hunter, the lowest of the low forms of life here.
+
+|	You know, since we've meet I've never learned your name. You say
+|	with a grin.
+
+|	You don't need to know that yet.
+
+|	A silence grows after she says this to you and that you think to
+|	yourself how that's the perfect thing to say while on the brink
+|	of life and death.
+
+|	1. Wait.
+
+@
+1 172
+
+

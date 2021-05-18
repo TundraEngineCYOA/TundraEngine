@@ -1,0 +1,24 @@
+1
+|	You know this place is pretty alien to me. I will need some help and
+|	you can show me around and if we see any Hunters we can stop them. You
+|	say to her.
+
+|	What's your point? She asks.
+
+|	Would you like to join my Adventure?
+
+|	I would like that, it would be nice sharing the history, and stopping
+|	those who have been ruining the home of my ancestors.
+
+|	The both of you shake hands and now you will be working together exploring
+|	this unknown world. And so the both of you begin by venturing to the old
+|	market.
+
+|	What do you do?
+
+|	1. Walk down the mainstreet.
+|	2. Take the back alleys.
+@
+1 122
+2 123
+

@@ -1,0 +1,17 @@
+1
+|	The Temple is the most holiest place within our society or so many
+|	will lead you to believe. Though there is another one, it's where
+|	the first Speaker saw a vision to which chilled her to her core and
+|	drove her mad. Rumour has it, God revealed how our world was going 
+|	to end and how the world was going to be rebuilt. The very thought
+|	of God destroying the world with countless deaths was far to heavy 
+|	on her mind. 
+
+|	What do you do?
+
+|	1. Tell me more.
+
+@
+1 221
+
+

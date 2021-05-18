@@ -1,0 +1,15 @@
+1
+|	Hello? You call out and recieve nothing as a response. 
+
+|	Nothings moving...nothing at all. A few moments pass as the cries of a
+|	woman fills the air. A chill runs down your spine. Fear takes hold of
+|	your soul and soon you begin to wonder just why your here?
+
+|	What do you do?
+
+|	1. Leave this place.
+|	2. Follow the crying.
+@
+1 150
+2 151
+

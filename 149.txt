@@ -1,0 +1,11 @@
+1
+|	The walls begin to shake as dust falls from the ceiling. The sound of thunderous
+|	footsteps can be heard racing towards you. With no where to hide, there's nothing
+|	you can do.
+
+|	1. Wait.
+
+@
+1 183
+
+

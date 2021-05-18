@@ -1,0 +1,15 @@
+1
+|	Yes, for the time being. The few others that are here with me went on
+|	a great mission in helping to spread the word and to return the Sun
+|	to the lives in the area. She says with a smile on her face.
+
+|	That's always important. You say and clear your throat.
+
+|	What do you do?
+
+|	1. When did they leave?
+|	2. What can defeat the darkness?
+@
+1 146
+2 147
+

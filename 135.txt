@@ -1,0 +1,13 @@
+1
+|	You begin to feel tired and that the idea of a quick rest would be 
+|	something of a good thing, you decide to lye down, and soon you fall
+|	asleep...within no time, you find yourself standing in a field.
+
+|	What do you do?
+
+|	1. Wander the field.
+|	2. Examine the area.
+@
+1 161
+2 162
+

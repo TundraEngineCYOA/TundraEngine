@@ -1,0 +1,15 @@
+1
+|	As you wander around the area, the crying gets louder, it almost feels
+|	as if it's following you. While your walking the crying gets louder and
+|	a sense of dread comes over you. Soon you find yourself standing in 
+|	what appears to be the room of a child. A small bed in the corner and
+|	a few choice toys scattered about.
+
+|	What do you do?
+
+|	1. Search the room.
+
+@
+1 185
+
+

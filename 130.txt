@@ -1,0 +1,14 @@
+1
+|	Walking through the massive hall you see many portraits of the forgotten
+|	souls that have long since vanished from this world. Music can be heard
+|	playing in the background. It sounds almost like that it's coming from
+|	under the table. 
+
+|	What do you do?
+
+|	1. Look under the table.
+
+@
+1 154
+
+

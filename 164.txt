@@ -1,0 +1,13 @@
+1
+|	You continue moving through the depressing landscape and with that
+|	you stumble cross a mural drawn on the walls, a long continous work
+|	detailing a disturbing scene unlike anything you've seen before.
+
+|	What do you do?
+
+|	1. Examine the mural.
+
+@
+1 202
+
+

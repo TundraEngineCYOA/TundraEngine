@@ -1,0 +1,10 @@
+1
+|	Slowly, you creep around the corner and find nothing...not a soul...
+|	silence fills the air again...
+
+|	1. Continue searching.
+|	2. Wait for a few moments.
+@
+1 148
+2 149
+

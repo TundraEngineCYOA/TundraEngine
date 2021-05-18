@@ -1,0 +1,14 @@
+1
+|	Who are you? What are you doing here? You say to the unknown individual
+|	from beneath your feet.
+
+|	After you call out to whoever is down there, you recieve nothing but a
+|	strong silence, and then suddenly you hear movement and the closing of
+|	a door.
+
+|	1. Find a way down there.
+
+@
+1 215
+
+

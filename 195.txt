@@ -1,0 +1,13 @@
+1
+|	As you slowly watch the disfigured lost soul wander about with it's
+|	head lowered in either dispair or by injury. It seems to be mumbling
+|	something, but you can't understand  just what it is, it's saying.
+
+|	What do you do?
+
+|	1. Get closer to hear.
+
+@
+1 247
+
+

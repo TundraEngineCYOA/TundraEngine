@@ -1,0 +1,14 @@
+1
+|	You decide to sit on the bed and take a few moments to rest before heading
+|	back into the madness that is this place. Sitting on the bed it feels as
+|	if it's stuffed with straw. Not too comfortable and as you sit in complete
+|	silence. 
+
+|	What do you do?
+
+|	1. Search the books
+
+@
+1 118
+
+

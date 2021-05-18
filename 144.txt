@@ -1,0 +1,22 @@
+1
+|	The story of creation...is a story of mystery, a story of triumph, and
+|	it is a story I am glad to tell you. During the dark times when the
+|	world was just forged. The Sun appeared and gave us the light, it gave
+|	life where there was only darkness and cold, and soon the plants came
+|	to life. The birds were created to give music and to spread the seeds
+|	of life. The Sun soon made it possible for all of us to be here, for
+|	our world was created to give us life, to give us the ability to create.
+
+|	As the darkness vanished it gave us the safety from what lurkes in the
+|	darkness. The Sun spoke to us and gave us a leader for who would bring
+|	us into the light. The scriptures from the anicents are within these
+|	walls. 
+
+|	What do you do?
+
+|	1. May I see them?
+|	2. Tell me more.
+@
+1 177
+2 178
+

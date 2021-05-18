@@ -1,0 +1,22 @@
+1
+|	I came from the surface and I'm an explorer. You said.
+
+|	Oh really...that is quite interesting. We don't get many outsiders
+|	to our lovely world. What do you think so far? He asked with such glee.
+
+|	Well for one where is everyone?
+
+|	Oh, they are around. Carrying out the works of our Speaker and God.
+|	Have you heard the history of our people and Speaker?
+
+|	
+|	What do you do?
+
+|	1. No, what is it?
+|	2. Yes...I have.
+@
+1 230
+2 231
+
+
+

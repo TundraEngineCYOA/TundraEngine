@@ -1,0 +1,14 @@
+1
+|	Taking a moment, you sit down at the table and look over the massive
+|	size of the room. You think about just who sat around this table, the
+|	feasts, the celebrations over a good meal, and as you sit in complete
+|	silence you hear a knock at the door from the otherside of the room.
+
+|	What do you do?
+
+|	1. Come in.
+|	2. Stay perfectly silent.
+@
+1 156
+2 157
+

@@ -1,0 +1,14 @@
+1
+|	Standing there in complete silence, you look around at you surroundings
+|	and wonder just what or who lives within this darkened place. You wait
+|	a few moments and call out if anyone's there...a minute passes and you
+|	hear nothing.
+
+|	What do you do?
+
+|	1. Enter the other room.
+
+@
+1 107
+
+

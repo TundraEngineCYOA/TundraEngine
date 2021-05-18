@@ -1,0 +1,12 @@
+1
+|	You figure why not return the gesture and you stomp on the floor with
+|	little effort and hear nothing but silence. You begin to wonder if you
+|	were just hearing things. Then suddenly you hear it...another loud bang.
+|	Someone's down there, you say to yourself. Just what are they doing? 
+
+|	1. Find a way down there.
+
+@
+1 215
+
+

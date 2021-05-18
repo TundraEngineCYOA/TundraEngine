@@ -1,0 +1,19 @@
+1
+|	Not knowing what to really do and wondering if running is something
+|	you should honestly do something but at this point what's the use.
+
+|	Come in! You say, not knowing what to expect.
+
+|	The door swings open and standing before you is a woman wearing a
+|	white robe with gold trim. She looks at you with a smile on her face.
+
+|	You must be the new one in town. 
+
+|	What do you do?
+
+|	1. What's going on?
+|	2. Were you expecting me?
+@
+1 191
+2 192
+

@@ -1,0 +1,19 @@
+1
+|	How are you enjoying yourself? The Old Man says with a grin on his face.
+
+|	You turn to see the Old Man standing before in the darkened area. He looks
+|	to you and takes a step towars you with the horn in hand. 
+
+|	Those in the Temple are not who they seem, a world forever shrouded in
+|	darkness has leaders that dwell within the very pits of evil. Be warned
+|	those in high places will do whatever they can to stop those who try to
+|	stop from finding the truth. 
+
+|	What do you do?
+
+|	1. How do I stop it?
+
+@
+1 190
+
+

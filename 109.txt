@@ -1,0 +1,14 @@
+1
+|	Wandering the area, you feel as if your being watched by someone.
+|	You decide to leave and hopefully find something of interest within
+|	this place. Nicely decorated areas draws in the inner theif in you
+|	and yet you fight the urge.
+
+|	What do you do?
+
+|	1. Enter a random room.
+|	2. Continue walking around.
+@
+1 120
+2 121
+

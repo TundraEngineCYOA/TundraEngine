@@ -1,0 +1,19 @@
+1
+|	What's going on? You ask.
+
+|	The time has come for the celebrations. She said, with an eerie grin.
+
+|	Celebrations? What's the occasion? You ask. Feeling a bit uneasy.
+
+|	Yes, it's the day of the Speaker, where we celebrate the bond between
+|	God and our people. Will you like to attend? We will be having a great
+|	feast.
+
+|	What do you do?
+
+|	1. I would be honored.
+|	2. No, I think I'm good.
+@
+1 239
+2 240
+

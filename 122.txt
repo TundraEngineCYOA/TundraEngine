@@ -1,0 +1,33 @@
+1
+|	As the two of you slowly walk down the bare street, void of any life,
+|	as you look around the main life line of this world. It is honestly
+|	unnerving in a way.
+
+|	How long have you been alone? She asks.
+
+|	It may look like I'm alone but I'm not. I'm surrounded by the spirits
+|	and they never leave me alone. She says with a hint of sadness in her
+|	voice.
+
+|	How many are left here? You ask, not wanting to upset her.
+
+|	By my count there's about a few dozen. Many went to the surface and were
+|	never heard from again. I think their dead. But those who stayed live in
+|	the shadows, hiding from the Hunters, and try to find a way of returning
+|	life to the way it was. 
+
+|	Is that why your here?
+
+|	Yeah. She says in a heavy sigh.
+
+|	You stand before a small building and most likely a storage building of some
+|	sort.
+
+|	What do you do?
+
+|	1. Enter the building.
+
+@
+1 140
+
+

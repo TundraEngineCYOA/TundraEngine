@@ -1,0 +1,13 @@
+1
+|	As the two of you wait in silence, you can hear what sounds like
+|	people chatting. You can't make out for sure what they are saying
+|	but overtime the voices get louder and soon they are standing just
+|	twenty feet away. The two of you exchange looks as your body tenses
+|	up.
+
+|	1. Listen to them taking.
+
+@
+1 213
+
+

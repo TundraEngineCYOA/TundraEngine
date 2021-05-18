@@ -1,0 +1,20 @@
+1
+|	The fear of leaving everything I know, the world that I know, and I
+|	want to be here for when the light returns and rebuilds our home as
+|	it was before the dark times.
+
+|	But aren't you curious to see what lyes outside of here? You ask.
+
+|	I do...but knowing that others have gone before me and never returned.
+|	It's something that I'm afraid of witnessing. Maybe, I will once
+|	everything has calmed down and the Sun returns. I would like to see
+|	your world someday.
+
+|	What do you do?
+
+|	1. What do you like to eat?
+
+@
+1 223
+
+

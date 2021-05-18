@@ -1,0 +1,14 @@
+1
+|	Hello? Is anyone here? I mean you no harm. You shout out.
+ 
+|	But alas, you are greeted with nothing but silence. But in the
+|	silence you hear the faint sound of footsteps.
+
+|	What do you do?
+
+|	1. Follow the sounds.
+|	2. Call out again.
+@
+1 127
+2 128
+

@@ -1,0 +1,13 @@
+1
+|	Stopping at a random room and slowly look inside and discover another
+|	stack of bodies. Your heart sinks a little as you realize this place
+|	is nothing but a massive tombstone. 
+
+|	What do you do?
+
+|	1. Search another room.
+
+@
+1 119
+
+

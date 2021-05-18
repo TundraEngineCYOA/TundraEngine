@@ -1,0 +1,11 @@
+1
+|	You take in the scenery and soon find yourself in the most wonderful
+|	place in the world. In the distance you see what appears to be a
+|	plume of smoke. 
+
+|	1. Find the source of the smoke.
+
+@
+1 200
+
+

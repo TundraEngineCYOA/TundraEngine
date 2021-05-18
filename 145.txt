@@ -1,0 +1,13 @@
+1
+|	At one time our numbers were in the millions...now there are a few 
+|	hundred left. Our people have lost so much and these hollowed
+|	buildings are nothing more than a reminder of what we once were. 
+
+|	What do you do?
+
+|	1. How have you managed to survive?
+
+@
+1 179
+
+

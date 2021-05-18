@@ -1,0 +1,14 @@
+1
+|	Walking around the area you find many different types of decorations
+|	and crafted by hands from a forgotten time. Alas, nothing on the surface
+|	will ever compare. Soon, you find yourself standing before a large doorway
+|	leading to another room. The smell of fruit carries in the air.
+
+|	What do you do?
+
+|	1. Enter the room.
+
+@
+1 139
+
+

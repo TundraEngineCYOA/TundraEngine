@@ -1,0 +1,13 @@
+1
+|	But of course, it's not everyday that we get a visitor to our great
+|	land. So we will do whatever we can to help educate those who enter
+|	our land.
+
+|	What do you do?
+
+|	1. Educate?
+
+@
+1 193
+
+

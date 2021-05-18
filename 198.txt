@@ -1,0 +1,16 @@
+1
+|	Making your way towards the stream. The lush beautiful field starts
+|	to have small rocks littered around the stream. You look at the
+|	calm and relaxing movement of the water and can feel the cold
+|	temperature coming off the water. The wind begin's to pick up and
+|	makes the tall blades of grass dance. A sense of peace washes over
+|	you.
+
+|	What do you do?
+
+|	1. Sit down.
+|	2. Touch the water.
+@
+1 252
+2 253
+

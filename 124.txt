@@ -1,0 +1,16 @@
+1
+|	You manage to reach a small street and figure it would be best if you
+|	stuck to the alleys. Never know just who or what you may find wandering
+|	about. In within a short period of time you hear the sound of a horrific
+|	yell coming from behind you. Without a second to spare you run until you
+|	reach what appears to be a home or you think it's a home. You decide it
+|	would be for the best if were to lay low for awhile until whatever that
+|	was is long gone. So without a moment to spare you quickly enter the
+|	place and croutch down, hiding in the shadows, silently, waiting.
+
+|	1. Search the place.
+|	2. Lookout the window.
+@
+1 142
+2 143
+

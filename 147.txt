@@ -1,0 +1,17 @@
+1
+|	There's two options. The first option is to leave this place, leave 
+|	my home, and wander the lands for eternity...The second option...is
+|	to find the Speaker, we find them and get some answers.
+
+|	What option are you thinking of doing? You ask.
+
+|	I say we go to the Speaker and findout just what is going on.
+
+|	What do you do?
+
+|	1. Let's go and find the speaker.
+
+@
+1 181
+
+

@@ -1,0 +1,14 @@
+1
+|	Figuring it would be best in searching another room within this place,
+|	slowly enter what appears to be a place in storing the dead. You feel
+|	a bit sick at this sight and give a moment of silence to those who've
+|	lost their lives.
+
+|	What do you do?
+
+|	1. Search the dead.
+|	2. Leave this place of death.
+@
+1 136
+2 137
+

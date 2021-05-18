@@ -1,0 +1,12 @@
+1
+|	You make your way to the window and look over the landscape and the sky
+|	seems to be growing dark...the air gets thick and soon you see a few
+|	drops fall from above...you begin to think this place is stranger than
+|	thought.
+
+|	1. Watch the rain.
+|	2. Rest for a bit.
+@
+1 175
+2 176
+

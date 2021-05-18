@@ -1,0 +1,17 @@
+1
+|	As the two of you walk down the street your companion stops in her
+|	tracks. She scans the area and just as your about to say something
+|	she hushes you. She signals you to head down the alley and quickly
+|	the two move to the alley. She quickly pushes you against a wall.
+|	Before you can say a word she presses her hand against your mouth.
+|	A few moments pass as in the distance you see a short pudgy figure
+|	walk silently. Their appearance is sickly and they seem as if they
+|	aren't even there. She quickly removes her hand and signs for you
+|	two to keep moving until you find a place to lay low for awhile.
+
+|	1. Keep moving.
+
+@
+1 141
+
+

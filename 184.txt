@@ -1,0 +1,13 @@
+1
+|	Like a bolt of lightning and filled with fear from whoever or
+|	whatever is crying. It doesn't sound human...and with everything
+|	you've seen so far, you really doubt whoever that is isn't human.
+
+|	What do you do?
+
+|	1. Stop and take cover.
+
+@
+1 229
+
+

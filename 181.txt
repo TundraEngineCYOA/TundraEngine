@@ -1,0 +1,17 @@
+1
+|	The last time I checked the Speaker was in the Temple. Surrounded by
+|	those who worship them and wish to be protected by the outside world.
+
+|	How many you figure are up there? You ask.
+
+|	I honestly don't know. But what I do know is that they'll fight to
+|	the very end.
+
+|	What do you do?
+
+|	1. Find the Speaker.
+
+@
+1 224
+
+

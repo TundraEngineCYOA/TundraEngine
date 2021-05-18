@@ -1,0 +1,13 @@
+1
+|	Without a moment to spare you quickly leave the room and slowly look
+|	around. Suddenly, the sound of footsteps fills the air and you feel
+|	as if you should hide before it's too late.
+
+|	What do you do?
+
+|	1. Hide.
+|	2. Keep moving.
+@
+1 159
+2 160
+

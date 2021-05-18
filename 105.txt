@@ -1,0 +1,14 @@
+1
+|	The second floor reveals a massive shrine of sorts. Statues depicting
+|	their God and the Speaker. Images of the family line detailing generations
+|	of former Speakers. Gold figures tower over the area, looking down upon
+|	those who enter the area, and it honestly makes you feel alien in a way.
+
+|	What do you do?
+
+|	1. Turn Left.
+|	2. Turn Right.
+@
+1 115
+2 116
+

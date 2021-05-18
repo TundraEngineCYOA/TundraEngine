@@ -1,0 +1,33 @@
+1
+|	My name is Ava. She says as she lets out a quite sigh.
+
+|	What?
+
+|	I'm just tired of this, not at you, just tired of what happened.
+|	She says, as she looks up to the ceiling. 
+
+|	It's going to get better, once we reach the Speakerm we'll get.
+|	the answers we need and hopefully we can rebuid. Now, I'm not
+|	from around here, but I'm too far deep into this now and can't
+|	just leave. You say with a chuckle.
+
+|	That's if we can get to them first. She says with a grin as she
+|	reaches for a small bottle from in her pocket and twists off the
+|	lid and takes a sip. 
+
+|	What's that?
+
+|	Alcohol, made out of the Lycaster plant. It's made for ceremonys
+|	and celebrations of life. She says, as she reaches over and hands
+|	the bottle.
+
+|	Taking the bottle, you figure what's the worse that can happen and
+|	without a second thought, you take a swig and swollow it down. It's
+|	honestly not that bad...taste like cherry.
+
+|	1. Tell me about yourself?
+
+@
+1 214
+
+

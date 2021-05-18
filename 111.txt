@@ -1,0 +1,14 @@
+1
+|	You give her a fine farewell and begin your journey in the vast world
+|	beneath the surface of the Earth. As you walk away you take a final
+|	moment and turn to the mysterious woman. Her back is turned to you and
+|	she appears to be praying.
+
+|	What do you do?
+
+|	1. Return to the streets.
+
+@
+1 124
+
+

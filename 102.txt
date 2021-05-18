@@ -1,0 +1,13 @@
+1
+|	Turning right, you keep running for a short while as you quickly run
+|	out of steam and soon you find yourself standing before what appears
+|	to be a Guard House of somekind.
+
+|	What do you do?
+
+|	1. Enter the Guard House.
+
+@
+1 104
+
+

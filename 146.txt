@@ -1,0 +1,16 @@
+1
+|	They left awhile ago. They left with only what they could carry...
+|	they wanted to bring back the light...
+
+|	How long ago was that? You ask.
+
+|	It's been so long I honestly forget.
+
+|	What do you do?
+
+|	1. What keeps you here?
+
+@
+1 180
+
+

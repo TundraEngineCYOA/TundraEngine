@@ -1,0 +1,13 @@
+1
+|	Picking up the pace and not wanting to spotted. You run as fast as
+|	you can until you reach the end of the hall and enter a large stone
+|	staircase. The temperature has dropped by ten degrees.
+
+|	What do you do?
+
+|	1. Go up the staircase.
+|	2. Go down the staircase.
+@
+1 196
+2 197
+

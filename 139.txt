@@ -1,0 +1,15 @@
+1
+|	With one fair push the door open and you find yourself entering a clean
+|	room and with a bowl of fresh fruit. Someone was expecting you or someone's
+|	living here? Either or, the fruit is very inviting.
+
+|	What do you do?
+
+|	1. Examine the fruit.
+|	2. Call out to whoever is there.
+
+@
+1 168
+2 169
+
+

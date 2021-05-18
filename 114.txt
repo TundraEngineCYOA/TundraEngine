@@ -1,0 +1,13 @@
+1
+|	Walking down the hall you keep on your guard. A foul stench of sulfur
+|	and mold are in the air. You can feel yourself becoming sick over the
+|	mixture of smells and it leads you to a room.
+
+|	What do you do?
+
+|	1. Enter the room.
+
+@
+1 129
+
+

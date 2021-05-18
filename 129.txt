@@ -1,0 +1,14 @@
+1
+|	You enter the room and find a golden bowl filled with rotten fruit. It's
+|	so rotten that you can't even tell just what it was. Just as your about to
+|	leave from the corner of your eye you see a man standing in the doorway.
+|	He greets you with an eerie smile and lowers his head.
+
+|	What do you do?
+
+|	1. Speak to the man.
+|	2. Attempt to leave.
+@
+1 152
+2 153
+

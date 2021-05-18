@@ -1,0 +1,14 @@
+1
+|	You walk down a large hallway and soon find yourself standing before
+|	a great hall. White walls with golden columns more fit for a King then
+|	for a Temple. Sconces hang off the walls giving off an eerie light in  
+|	the hall. Someone's here, they have to be here! You think to yourself.
+
+|	What do you do?
+
+|	1. Walk through the Hall.
+|	2. Take a moment.
+@
+1 130
+2 131
+

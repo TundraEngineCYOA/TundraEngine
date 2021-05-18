@@ -1,0 +1,14 @@
+1
+|	Opening the door you stand before a large hallway...The stench of death
+|	hits you like a ton of bricks. You can feel your stomach turn as you walk
+|	through the hallway, the silence is so thick the sound of something dripping
+|	can be heard.
+
+|	What do you do?
+
+|	1. Continue walking.
+
+@
+1 194
+
+

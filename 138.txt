@@ -1,0 +1,17 @@
+1
+|	A pile of clothes that could clothe a small village. Just why is there 
+|	a pile of clothes here? Who's collecting them and how were they taken?
+|	Something doesn't feel right here, something unnatural in a way happened
+|	here. Slowly, you look through the piles of clothes that look to be 
+|	nothing but rags. Old clothes crafted generations ago, just by how they
+|	look compared to what you think they'd wear. Perhaps this was a tailors
+|	shop or a laundromat?
+
+|	What do you do?
+
+|	1. Leave the room.
+
+@
+1 167
+
+

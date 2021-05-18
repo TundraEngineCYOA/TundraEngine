@@ -1,0 +1,18 @@
+1
+|	Were you expecting me? You ask, taking a step back. Not know what
+|	to expect.
+
+|	Yes, we've been expecting you since we first saw you. It was something
+|	of a shock to us, seeing someone enter our world. Is something that
+|	makes us filled with joy.
+
+|	Really...that's great. You reply with, not knowing exactly what to say.
+
+|	What do you do?
+
+|	1. Attempt to leave.
+
+@
+1 241
+
+

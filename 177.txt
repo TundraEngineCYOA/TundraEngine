@@ -1,0 +1,21 @@
+1
+|	Of course, follow me. Since the dawn of time we have kept records of
+|	all events that shaped our people and our society. We worked towards
+|	the ultimate goal, a society void of hunger, void of death, and so
+|	we were working towards something truly great. 
+
+|	She leads you down a flight of stairs into a vast library filled with
+|	books as far as the eye can see. The room is lit with brass lanterns
+|	and the smell of old books fills the air.
+
+|	Here you will find all the history of our people, read what you want,
+|	and take the information of our people to help you in your quest.
+
+|	What do you do?
+
+|	1. Read the books.
+|	2. Search the library.
+@
+1 219
+2 220
+

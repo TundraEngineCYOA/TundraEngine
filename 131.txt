@@ -1,0 +1,13 @@
+1
+|	You take a moment to gather your thoughts and taking in the surroundings.
+|	A mild sense of dread washes over you as in the distance you hear what
+|	sounds like a horn being blown. Is it the Old Man? 
+
+|	What do you do?
+
+|	1. Investigate the noise.
+
+@
+1 155
+
+

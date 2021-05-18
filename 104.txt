@@ -1,0 +1,14 @@
+1
+|	Slowly, you enter the Guard House and find it completly void of any 
+|	life. Everything is left as it was before the end arrived. Food left
+|	out rotting away on metal plates. A long hall dives deep into the 
+|	building.
+
+|	What do you do?
+
+|	1. Call out for any survivors.
+|	2. Walk down the hall.
+@
+1 113
+2 114
+
