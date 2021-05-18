@@ -1,0 +1,19 @@
+1
+|	Tell me of the Speaker? You ask, wanting to understand everything about
+|	them.
+
+|	It is rumoured that the Speaker died from the diease of the air. But it is
+|	not known for sure. Though, many have not seen or heard from the Speaker
+|	in years.
+
+|	What do you do?
+
+|	1. What will happen is the Speaker is dead?
+|	2. Who will replace the Speaker if dead?
+|	3. Can the Speaker be killed?
+|	4. Will the light return if the Temple is no more?
+@
+1 325
+2 326
+3 327
+4 328

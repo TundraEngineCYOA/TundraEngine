@@ -1,0 +1,13 @@
+1
+|	May I see the Speaker then?
+
+|	First you must see the Guardian of the Speaker and if you pass, then
+|	you may see them. Follow me and you will speak with the Guardian. If
+|	you answer honestly with her and then you will move forward.
+
+|	1. Go with them to the Guardian.
+
+@
+1 318
+
+

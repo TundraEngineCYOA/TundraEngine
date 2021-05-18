@@ -1,0 +1,17 @@
+1
+|	It depicts the events of what appears to be a revolt of some sort.
+|	Crudely, drawn images painted on the walls with what looks like
+|	a brutal battle between the people and those in power. Or that's
+|	what it looks like, a complete eruption of violence, and the masses
+|	are lying in the streets bleeding out. An army of Guards slaughtering
+|	everyone in their paths. As someone stands on a pillar with their
+|	hands up to the heavens...most likely the Speaker.
+
+|	What do you do?
+
+|	1. Keep moving.
+
+@
+1 257
+
+

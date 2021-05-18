@@ -1,0 +1,14 @@
+1
+|	You wander around the library and are amazed by the sight of books
+|	and portraits of long since deceased people and animals on the walls.
+|	As you wander around the area, you see a large framed map hanging
+|	from a wall. Revealing just how large this hidden world. 
+
+|	What do you do?
+
+|	1. Examine the map.
+|	2. Continue to search through the library.
+@
+1 292
+2 293
+

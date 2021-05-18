@@ -1,0 +1,24 @@
+1
+|	I know exactly what your doing? She says.
+
+|	What am I doing?
+
+|	I like eating Yak stew with bread. I've been eating it for what seems
+|	to be years. The secret is the spices, luckily I have a small herb
+|	garden, so I can make it a million different ways.
+
+|	That sounds good. I'd like to try it sometime.
+
+|	Once we get out of here, I'll make it for you. Once we figure this all
+|	out. 
+
+|	I can't wait. You say, as you make yourself comfortable.
+
+|	What do you do?
+
+|	1. What will you do once we find the Speaker?
+
+@
+1 298
+
+

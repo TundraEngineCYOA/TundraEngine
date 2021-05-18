@@ -1,0 +1,15 @@
+1
+|	Searching the area, you decide the best course of action is to
+|	hide from whoever or whatever is making that noise. And so you
+|	see a few places to hide.
+
+|	What do you do?
+
+|	1. Under a table.
+|	2. Behind a curtain.
+
+@
+1 311
+2 312
+
+

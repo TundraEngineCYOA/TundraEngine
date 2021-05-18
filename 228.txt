@@ -1,0 +1,19 @@
+1
+|	I honestly don't know what to tell you. But who are you and your friends?
+
+|	Oh you'll see in a very short period of time. Grab him...The Leader wants
+|	to see him...alive.
+
+|	Those behind him start groaning with disappointment. This is the end you
+|	think and what awaits you back at their home. Just what you need to be
+|	taken captive by a group of sadistic lunatics.
+
+|	1. Run.
+|	2. Fight for your life.
+|	3. Go with them.
+
+@
+1 308
+2 309
+3 310
+

@@ -1,0 +1,15 @@
+1
+|	While you walk around the area, you find more and more bodies stacked
+|	to the ceiling. This is madness, nothing but death, and chaos. Something
+|	isn't right here and you are starting to wonder just what is happening
+|	within this place is complete insanity. Just then you come into a room,
+|	a room that looks like a surgery room.
+
+|	What do you do?
+
+|	1. Examine your surroundings.
+
+@
+1 256
+
+

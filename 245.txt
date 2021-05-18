@@ -1,0 +1,19 @@
+1
+|	You keep moving in the hopes of finding out the source of the groans. Slowly,
+|	make your around the area, turning corners, and so the noises get louder.
+|	They remind you of someone dying...or a pig being slaughtered. A foul smell
+|	is carried in the air and soon you find yourself standing before a large door.
+|	The groans can be heard and the source is whatever awaits you behind this door.
+
+|	can be heard.
+
+|	What do you do?
+
+|	1. Keep listening.
+|	2. Slowly open the door.
+|	3. Leave.
+
+@
+1 343
+2 344
+3 345

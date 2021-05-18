@@ -1,0 +1,22 @@
+1
+|	What's going on fellas? You ask. Not knowing exactly what to expect.
+
+|	The tall grizzly looking man takes a few steps towards you and gives
+|	a confused look.
+
+|	Your not from around here aren't you?
+
+|	No, I'm just a tourist. Nice place you got here.
+
+|	Are you a Follower, Hunter, or Rouge?
+
+|	What do you do?
+
+|	1. I'm a Follower.
+|	2. I'm a Hunter.
+|	3. I'm a Rogue.
+
+@
+1 264
+2 265
+3 266

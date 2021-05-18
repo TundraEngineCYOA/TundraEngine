@@ -1,0 +1,15 @@
+1
+|	It's a lost world of sorts. Everything is lost within time and it's
+|	enough to drive confusion into the strongest of minds. You feel a
+|	strange pressence around you and as the day goes on, you are starting
+|	to feel drained, and you would really like to take a moment to rest.
+
+|	What do you do?
+
+|	1. Find a place to rest.
+
+@
+1 281
+
+
+

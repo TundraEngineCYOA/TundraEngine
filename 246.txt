@@ -1,0 +1,13 @@
+1
+|	You figure that this is something you don't want to get involved with.
+|	Because with how strange this place is who honestly knows just what is
+|	lurking in this place. So as you walk away the sounds begin to grow
+|	silent until all goes silent.
+
+|	What do you do?
+
+|	1. Search the area.
+
+@
+1 346
+

@@ -1,0 +1,22 @@
+1
+|	I wonder just how long it will take for us to rebuild. I wonder if
+|	the others outside the wall are faring any better?
+
+|	There are others outside the wall? You ask intrigued to hear that.
+
+|	There are others outside of this place, other villages, and other
+|	Speakers. The wall was built to contain us all from spreading death
+|	to others. Those who tried to flee were killed but that was many
+|	years ago. I don't even know if anyones even still alive anymore.
+
+|	What do you do?
+
+|	1. How do we pass the wall?
+|	2. Let's find out if they'll kill us.
+|	3. What do you want to do?
+
+@
+1 294
+2 295
+3 296
+

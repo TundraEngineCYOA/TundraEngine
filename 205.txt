@@ -1,0 +1,13 @@
+1
+|	You wander the area and find lying on a table the remains of someone
+|	covered with a blanket. The sense of fear washes over you as the
+|	stench of death in the air.
+
+|	What do you do?
+
+|	1. Remove the blanket.
+|	2. Leave this place.
+@
+1 261
+2 262 
+

@@ -1,0 +1,21 @@
+1
+|	Slowly you begin making your way away from this very strange individual
+|	and quickly they attempt to stop you.
+
+|	Where are you going? They asked confused. 
+
+|	I forgot, I'm double parked and...
+
+|	And just before you can finish your sentence three guards dressed in
+|	brown robes enter the area.
+
+|	What do you do?
+
+|	1. Go with them.
+|	2. Run.
+
+@
+1 336
+2 337
+
+

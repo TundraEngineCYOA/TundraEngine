@@ -1,0 +1,18 @@
+1
+|	Where are they? I can swear they came down here.
+
+|	I don't know. All I know is that Gilda wants the man brought to her
+|	for the ceremony.
+
+|	What about the girl?
+
+|	I don't think Gilda really cares about what happens to her.
+
+|	*Laughs* Let the good times roll.
+
+|	1. Keep listening.
+
+@
+1 282
+
+

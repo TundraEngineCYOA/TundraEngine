@@ -1,0 +1,15 @@
+1
+|	What do you mean to feed?
+
+|	Exactly what it sounds like. A world consumed with madness will do anything
+|	for a cure for what they think they'll need to make them feel better about
+|	the crimes they have committed. 
+
+|	What do you do?
+
+|	1. What can we do to stop this?
+
+@
+1 319
+
+

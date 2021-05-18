@@ -1,0 +1,18 @@
+1
+|	Let's find them and bring them down to our level. Ava says with a hint
+|	of wanting revenge against the one's responsible for this.
+
+|	Well, it's time to find them.
+
+|	The two of you begin to venture in the direction of the tower. It looms
+|	in the distance like a reminder of what was once a mighty society forever
+|	ruined by the hand of death.
+
+|	What do you do?
+
+|	1. Journey to the Speaker.
+
+@
+1 299
+
+

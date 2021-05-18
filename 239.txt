@@ -1,0 +1,23 @@
+1
+|	I would be honored. You say.
+
+|	Please, follow me and I shall take you to the celebration hall.
+
+|	You decide that this just be your chance in coming into contact with
+|	the Speaker. Though, it might be interesting to see just how these
+|	people and just who knows what would happen if you said no.
+
+|	As you follow the strange person through an area that looked like it
+|	belonged in a movie of sorts. Everything was void of life and seemed
+|	to have been the places of much death.
+
+|	What do you do?
+
+|	1. Look around the area.
+|	2. Attempt to run away.
+|	3. Ask about the celebration
+@
+1 332
+2 333
+3 334
+

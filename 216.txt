@@ -1,0 +1,14 @@
+1
+|	The once living world you have set foot in stand eeriely silent as
+|	everything makes you think of your utter doom within this place.
+|	As you lookout to the world around you in the distance you see a
+|	large bird flying in the distance giving you some form of hope. 
+|	Just as your about to leave you see in several dark rooms candles
+|	being lit, showing some sign of life within this place.
+
+|	1. Rest for a bit.
+
+@
+1 286
+
+

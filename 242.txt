@@ -1,0 +1,15 @@
+1
+|	You would? That's great, I think you can. Come with me and soon you'll
+|	be seeing the Speaker.
+
+|	Alright. You say, not knowing what to expect from this madness.
+
+|	What do you do?
+
+|	1. Follow the Stranger.
+
+@
+1 338
+
+
+

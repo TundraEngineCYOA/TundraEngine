@@ -1,0 +1,21 @@
+1
+|	Flipping through several of the books dating back centuries. Forgotten
+|	histories from an unknown world. These are the last reminents of a
+|	society long since forsaken.
+
+|	She looks at you with joy, knowing that you at least apperciate the
+|	world around you, and though you don't understand a word that's printed
+|	on these pages. 
+
+|	Cau you read the anguage of my people? She asks with curiousity.
+
+|	No, got any books in English? You say with a chuckle.
+
+|	What do you do?
+
+|	1. Search the library.
+|	2. Ask her what the books .
+@
+1 290
+2 291
+

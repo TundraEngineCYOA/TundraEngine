@@ -1,0 +1,14 @@
+1
+|	Deciding it's best to just leave this place, you turn around, and
+|	make your leave. And just as your about to leave you hear a faint
+|	groan from the piles of bodies. Suddenly, you turn around and look
+|	frantically for the source of the cries.
+
+|	What do you do?
+
+|	1. Hello, where are you?
+
+@
+1 263
+
+

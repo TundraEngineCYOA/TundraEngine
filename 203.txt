@@ -1,0 +1,18 @@
+1
+|	You slowly make your way to the person and ask them if their
+|	okay. They just turn to you and give you a toothless grin. You
+|	that it's an old man, he's wearing rags and walks with a cane.
+
+|	Thank you...thank you for asking. It's nice knowing that there
+|	are still people in this world that care...but I'm on the great
+|	walk. He says, as he stops and turns to you.
+
+|	What do you do?
+
+|	1. What is the Great Walk?
+|	2. What happened here?
+
+@
+1 258
+2 259
+

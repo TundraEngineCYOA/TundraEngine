@@ -1,0 +1,17 @@
+1
+|	Walking past the window and making your way to God knows where. As you
+|	keep climbing you notice the temperature is rising ever so slowly and
+|	soon you come to an old wooden door. That seems out of place with how
+|	the rest of the place looks.
+
+|	What do you do?
+
+|	1. Knock on the door.
+|	2. Press your ear to the door.
+|	3. Open the door.
+
+@
+1 350
+2 351
+3 352
+

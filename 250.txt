@@ -1,0 +1,17 @@
+1
+|	You look around the area and find that the cells are littered with
+|	what appears to be old dusty and resting in place for quite sometime.
+|	You wonder just what they deserved to be sent down here? Or to be
+|	left here to die.
+
+|	What do you do?
+
+|	1. Keep looking around.
+|	2. Call out to anyone still here.
+|	3. Search the area.
+
+@
+1 353
+2 354
+3 355
+

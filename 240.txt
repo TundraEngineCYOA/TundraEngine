@@ -1,0 +1,21 @@
+1
+|	No, I think I'm good.
+
+|	It wasn't an option.
+
+|	You are to be a guest at the most holiest day of the year for us. It
+|	would be an insult not just to myself or my people, but to our Speaker
+|	and God.
+
+|	Not knowing how to answer, you decide to agree, and attend the celebrations.
+|	Who knows, you might just learn something from this or at least get to 
+|	see the Speaker.
+
+|	What do you do?
+
+|	1. Go to the celebration.
+
+@
+1 335
+
+

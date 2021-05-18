@@ -1,0 +1,14 @@
+1
+|	The fruit looks good enough to eat and as you are about to reach out
+|	for it. It quickly rots before your eye's and turns to dust. How
+|	disturbing is that?
+
+|	What do you do?
+
+|	1. Move onward
+
+@
+1 279
+
+
+

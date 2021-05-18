@@ -1,0 +1,14 @@
+1
+|	You begin to feel at peace and with that you fall into a deep sleep.
+|	A feeling of peace washes over you and brings you to a slight moment
+|	of rest. You feel that you should take advantage of the peace and
+|	quite before something happens.
+
+|	1. Continue to rest.
+|	2. Wake up.
+
+@
+1 287
+2 288
+
+

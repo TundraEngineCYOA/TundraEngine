@@ -1,0 +1,21 @@
+1
+|	Lowering the table cloth in a sort of panic from what you've just
+|	witnessed. You decide now is a good idea to leave this place and
+|	keep moving.But as you are about to leave you hear laughter again
+|	coming from under the table as the childs voices changes into a
+|	dark reminder of just what horrors wait in hiding within this place.
+
+|	Goodbye, you poor soul. You say and just after you said that, you
+|	turn and take one final look of the table.
+
+|	Within a few seconds the table cloth slowly lifts up revealing the
+|	pale child waving bye to you.
+
+|	What do you do?
+
+|	1. Leave the area.
+
+@
+1 329
+
+

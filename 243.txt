@@ -1,0 +1,21 @@
+1
+|	No thank you.
+
+|	But why? The Speaker can grant you whatever you desire by the power
+|	of God. They say with joy in their tone.
+
+|	I'm just wanting to live life by my own means.
+
+|	Fair enough. They say with a strange smile.
+
+|	What do you do?
+
+|	1. Quickly leave.
+|	2. What do you do here?
+|	3. What has the Speaker gifted you?
+
+@
+1 339
+2 340
+3 341
+

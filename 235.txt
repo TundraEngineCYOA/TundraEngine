@@ -1,0 +1,24 @@
+1
+|	Tell me of the dark times? Is that where most of the people went?
+
+|	Most of them but not all of them. Many others fled to the other provinces
+|	and the majority of them were killed out of fear of spreading the disease.
+|	Some went to the surface and were never heard from again and I like to
+|	think some of them survived and found peace.
+
+|	How many other provinces are there?
+
+|	Roughly seven if you follow the old maps and books. But I'm not sure about
+|	if their still alive or not. No one knows. Many have sent messages and are
+|	never replied too. If I was younger, I would venture over the wall and see
+|	just what happened to them. 
+
+|	What do you do?
+
+|	1. Do they too have Speakers?
+|	2. Is there a way to go over the wall?
+|	3. Does every province have a Speaker?
+@
+1 322
+2 323
+3 324

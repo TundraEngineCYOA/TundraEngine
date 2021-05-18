@@ -1,0 +1,26 @@
+1
+|	Generations ago we lived in darkness...then the sky opens up and the
+|	sun chased the darkness back to where it came. As the Sun arrived it
+|	appointed one of the lucky to be it's Speaker. So on that day the 
+|	voice of God was heard and so we built the Temple.
+
+|	Then we moved forward and built a mighty dwellings of stone and wood
+|	compared to the grass and mud that was our time of darkness. He has
+|	gifted us with so much and just like a loving parent the gifts come
+|	with the punishment. Too many people have turned their backs on the
+|	Speaker and God. So in the end those who were struck down by the hand
+|	of death got what they deserved. So those who survived were the ones
+|	who believed in the light and were blessed with the gift of life.
+
+|	
+|	What do you do?
+
+|	1. How many are left?
+|	2. May I see the Speaker?
+|	3. What is your position?
+@
+1 313
+2 314
+3 315
+
+

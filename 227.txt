@@ -1,0 +1,33 @@
+1
+|	I'm trying to find the Speaker.
+ 
+|	The Speaker? Why in hell would anyone want to find the Speaker? They
+|	say in a confused tone. Everyone looks to one another with looks of
+|	confusion.
+
+|	Yes, I'm trying to findout what happened here. Maybe it can be fixed
+|	and whoever is left can find the answers they need.
+
+|	No one's seen or heard from the Speaker in years. But our numbers keep
+|	dropping. What should we do with the outsider everyone?
+
+|	An eerie silence comes over the small crowd as you stand before these
+|	wanderers of this forsaken place. A few of them exchange odd looks to
+|	one another and suddenly the silence is broke by the appointed leader.
+
+|	Before anything happens our leader would like to see you. He was very
+|	adamant that all outsiders be brought to him. So today is your lucky
+|	day. Usually, we kill those who aren't from around here...grab him.
+|	Suddenly, from out of nowhere two of them make their way towards you
+|	and you can feel your heart pounding. Just what will happen to you is
+|	something that God knows...and he's not saying.
+
+|	1. Attempt to run.
+|	2. Attempt to fight.
+|	3. Let them grab you.
+
+@
+1 305
+2 306
+3 307
+

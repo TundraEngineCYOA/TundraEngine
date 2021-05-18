@@ -1,0 +1,15 @@
+1
+|	The bowl is crafted out of a combination of both gold and marble. It's
+|	honestly something to be prized. The craftsmanship alone is something
+|	to be admired. You really don't see stuff like this back home. From the
+|	corner of your eye you see a door open.
+
+|	What do you do?
+
+|	1. Slowly make your way to the door.
+
+@
+1 280
+
+
+

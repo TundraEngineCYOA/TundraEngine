@@ -1,0 +1,16 @@
+1
+|	Are you okay?
+
+|	Just walking down memory lane. You know, I use to be a young
+|	man, I use to live a life of adventure...I would travel the
+|	known world. Now, I walk this world in this old shell...my days
+|	are sadly over.
+
+|	What do you do?
+
+|	1. You must've seen some great things.
+
+@
+1 260
+
+

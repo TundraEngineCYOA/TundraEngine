@@ -1,0 +1,26 @@
+1
+|	Yes I have. You say to the very strange man.
+
+|	He nods to you and gives you a smile. He raises his hands to over his
+|	head in a praising motion and screams with joy. He collects himself
+|	and looks at you in a very serious fashion.
+
+|	So if you have heard of our history, you must be interested in knowing
+|	that we are only a few moments away from our gathering. He says putting
+|	his hands together.
+
+|	Gathering? You ask.
+
+|	Yes, where we give thanks to God and listen to our Speaker. Would you
+|	like to attend with us and be our special guest?
+|	
+|	What do you do?
+
+|	1. Yes, I would be honored.
+|	2. Maybe some other time.
+@
+1 316
+2 317
+
+
+

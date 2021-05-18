@@ -1,0 +1,14 @@
+1
+|	Where is everybody? You yell out. As you turn around and are greeted
+|	with nothing but just silence. A feeling of dread takes over as you
+|	are truly alone within this place.
+
+|	What do you do?
+
+|	1. Investigate the area.
+
+@
+1 212
+
+
+

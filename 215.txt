@@ -1,0 +1,12 @@
+1
+|	Searching frantically, you find a carpet covering the floor, and soon
+|	you can't hear a single sound. Maybe whoever is down there left?
+
+|	1. Lift the carpet.
+|	2. Search for a way downstairs.
+
+@
+1 284
+2 285
+
+

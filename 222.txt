@@ -1,0 +1,12 @@
+1
+|	It might never return. But it's worth a try if it means saving my
+|	home from the hands of those with evil in their hearts.
+
+|	What do you do?
+
+|	1. It'll happen soon enough.
+
+@
+1 297
+
+

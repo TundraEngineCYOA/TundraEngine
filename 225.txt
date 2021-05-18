@@ -1,0 +1,14 @@
+1
+|	The tablet is made out of a very fine stone with a golden boarder.
+|	Carved into the stone appears to be the birth and death of this
+|	Warrior. As you turn around to leave, you hear the faint sound of
+|	people talking in the distance. Following the sound of their voices
+|	you walk through a small group of bushes and kneel down hoping to
+|	hear what's being said.
+
+|	1. Listen to the talking.
+
+@
+1 300
+
+

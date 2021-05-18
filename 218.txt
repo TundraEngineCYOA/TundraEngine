@@ -1,0 +1,11 @@
+1
+|	Slowly, you begin to wake up as an unnerving feeling comes over you.
+|	As if an alarm is going off in your head. So much for getting some
+|	much needed rest.
+
+|	1. Sit for awhile.
+
+@
+1 289
+
+

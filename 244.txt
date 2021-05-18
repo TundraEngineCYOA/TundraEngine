@@ -1,0 +1,14 @@
+1
+|	You take a closer look at what is on the walls...it's an off color between
+|	red and brown...then it hits you...the smell. It's blood you say to yourself.
+|	Just what has been going on here? As everyone lost their minds?
+
+|	What do you do?
+
+|	1. Touck what's on the walls.
+|	2. Keep moving.
+
+@
+1 342
+2 342
+

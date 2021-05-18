@@ -1,0 +1,23 @@
+1
+|	I'm an Exporer, looking for a lost city within the Earth. A fabled
+|	world which was believed to never exist. But I've found it and I'm
+|	here to document it and understand just what happened here. You say
+|	with confidence.
+
+|	An Explorer? From the surface? The Leader of the group responds.
+
+|	Yes, two different worlds.
+
+|	What's the surface like?
+
+|	Nothing like this, that's for sure.
+
+|	1. So, what's going to happen to me?
+|	2. Are you Hunters?
+|	3. Who are you people?
+
+@
+1 301
+2 302
+3 303
+

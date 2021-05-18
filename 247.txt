@@ -1,0 +1,27 @@
+1
+|	Without making a sound you move closer to the strange being...you
+|	look at it's face and you see that it's eye's are completely bandaged
+|	up. Standing perfectly stil you can hear it speak.
+
+|	The light gives the life to those in the shadows. The Speaker promised
+|	me sight...the Speaker took my eye's cause I disobeyed...I am...good.
+
+|	Suddenly the being stops and begin's to smell the air around him...he
+|	senses you, you think to yourself.
+
+|	Where are you? Who are you?...You do not smell like anyone in the Speakers
+|	court...reveal yourself.
+
+|	What do you do?
+
+|	1. Reveal yourself.
+|	2. Keep moving.
+|	3. Ask him about his eyes.
+|	4. Watch him.
+
+@
+1 347
+2 348
+3 349
+4 350
+

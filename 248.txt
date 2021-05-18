@@ -1,0 +1,15 @@
+1
+|	Looking out the window, you look over what must've been a wonderful view
+|	before this all went to hell. A vast sea of empty homes and it honestly
+|	makes you miss the world your from. Just as your about to leave, you see
+|	a few fires being started, and it makes you feel a sense of hope. Maybe
+|	there are others out there who are fighting for the better?
+
+|	What do you do?
+
+|	1. Keep moving.
+
+@
+1 349
+
+
