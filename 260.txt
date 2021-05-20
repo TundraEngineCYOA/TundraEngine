@@ -1,0 +1,22 @@
+1
+|	You must've seen some great things.
+
+|	Oh yes, I've seen many great things in my younger days. I've
+|	visited many villages outside of my own. I've meet some interesting
+|	people and learned some pretty good lessons that no one could
+|	ever teach. Seen many types of animals not recorded and even seen
+|	what lurkes outside of the barrier.
+
+|	What do you do?
+
+|	1. How many villages are here?
+|	2. What animals?
+|	3. Where is the barrier?
+|	4. Got any advice for me?
+
+@
+1 380
+2 381
+3 382
+4 383
+

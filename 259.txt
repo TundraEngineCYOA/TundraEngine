@@ -1,0 +1,27 @@
+1
+|	What happened here?
+
+|	Many thing have brought this upon us. I like to think it's the
+|	fools from up above who let this all happen. They just don't
+|	think we're not smart enough to realize it is all.
+
+|	I've heard it was a stranger from the outside that brought it
+|	upon the people. You said.
+
+|	That is what they say, but I know better, I know exactly what
+|	was the cause of it.
+
+|	What? You ask intrigued.
+
+|	It was the Speaker, thinking that they could garner more support
+|	from us so they would seem useful to us.
+
+|	What do you do?
+
+|	1. So you think it's all a lie?
+|	2. What happened to the Speaker?
+
+@
+1 378
+2 379
+

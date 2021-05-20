@@ -1,0 +1,33 @@
+1
+|	You leave the area without giving it a second thought. The feeling
+|	of your skin crawling makes you feel unnerved beyond comparison. 
+|	Without looking back you turn the corner and soon find yourself lost
+|	within a series of doors. Each one looking like the other and it 
+|	resembles that of an apartment complex of somekind. Each door is
+|	marked with what appears to be animals and plants. All things that
+|	need the Sun to survive.
+
+|	What do you do?
+
+|	1. Tree Room.
+|	2. Flower Room.
+|	3. Wheat Room.
+|	4. Grass Room.
+|	5. Water Room.
+|	6. Deer Room.
+|	7. Bear Room.
+|	8. Eagle Room.
+|	9. Snake Room.
+|	10. Sun Room.
+@
+1 386
+2 387 
+3 388
+4 389
+5 390
+6 391
+7 392
+8 393
+9 394
+10 395
+

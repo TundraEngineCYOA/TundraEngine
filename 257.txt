@@ -1,0 +1,23 @@
+1
+|	You decide to keep moving and soon you find yourself wandering a
+|	massive ballroom but the looks of it. A beautiful open floor...
+|	looking like marble...with stone pillars and candles hanging off
+|	the walls. Portraits of those who came before and have long since
+|	passed on.
+|	everyone in their paths. As someone stands on a pillar with their
+|	hands up to the heavens...most likely the Speaker.
+
+|	What do you do?
+
+|	1. Examine the portraits.
+|	2. Blow out the candles.
+|	3. Take in the view.
+|	4. Look around the Ballroom.
+
+@
+1 371
+2 372
+3 373
+4 374
+
+

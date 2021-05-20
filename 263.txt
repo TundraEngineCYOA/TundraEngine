@@ -1,0 +1,26 @@
+1
+|	Hello, where are you?
+
+|	The groaning grows louder and shortly after that you see something
+|	begin to move. A hand shoots out from the pile of bodies as if they
+|	have been hiding.
+
+|	Are you okay? You ask, as you frantically make your way to them.
+
+|	You climb the pile of bodies and start digging to help the unknown
+|	lost soul within this world of madness. As you start to pull them
+|	up they start moving until they break through. Out of breath you
+|	fall back and look to the person you struggled to help. It's a
+|	young woman who appears to be in her mid-twenties with long black
+|	hair. She looks tired and completely out of it.
+
+|	What do you do?
+
+|	1. How long have you been there?
+|	2. Are you okay?
+|	3. What happened to you?
+
+@
+1 396
+2 397
+3 398

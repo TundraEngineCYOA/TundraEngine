@@ -1,0 +1,14 @@
+1
+|	Wondering if this is happening all in your head or if it's honestly
+|	really happening...this is crazy. And so you keep wandering around
+|	the area before you reach the doorway of an unknown loacation.
+
+|	What do you do?
+
+|	1. Open the door.
+
+@
+1 410
+
+
+

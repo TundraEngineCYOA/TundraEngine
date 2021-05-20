@@ -1,0 +1,15 @@
+1
+|	I'm a Hunter. You say.
+
+|	Good, we need more Hunters in this world. What brings you here?
+
+|	What do you do?
+
+|	1. Looking for game.
+|	2. Just wanted to go on a Adventure.
+|	3. Wanted to search for new game.
+
+@
+1 402
+2 403
+3 404

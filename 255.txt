@@ -1,0 +1,21 @@
+1
+|	Figuring to yourself why not, what's the worse that can happen.
+|	You enter the strangers camp and look around, making sure it's
+|	not a trap. You examine the man who appears to be an older fellow
+|	perhaps a trapper or just a carefree traveler of sorts.
+
+|	What brings you to these parts stranger? He says with a smile.
+
+|	I don't honestly know myself. You say.
+
+|	Well, have a seat and maybe you will.
+
+|	1. What are you doing here?
+|	2. Whatcha cooking?
+|	3. How's your day going?
+
+@
+1 365
+2 366 
+3 367
+

@@ -1,0 +1,15 @@
+1
+|	You decide now would be a good time to sit down by this peaceful
+|	river and take sometime to relax. As the grass around you dances
+|	in the wind, as the Sun shines it makes you feel truly comfortable.
+|	The feeling of peace washes over you and the sound of the running
+|	water gives you a sense of inner peace.
+
+|	What do you do?
+
+|	1. Watch the water.
+|	2. Look up to the sky.
+@
+1 359
+2 360
+

@@ -1,0 +1,15 @@
+1
+|	You kneel down and look into the crystal clear water. You can
+|	feel the cold coming off of it. Leaning over you reach into the
+|	water and watch as it passes by you. A few moments pass and as
+|	you pull your hand out and to your horror...your hand is covered
+|	in what appears to be blood.
+
+|	What do you do?
+
+|	1. Stand up.
+|	2. Examine your hand.
+@
+1 361
+2 362
+

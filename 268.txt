@@ -1,0 +1,16 @@
+1
+|	Who are these people? You ask, hoping they don't turn against you.
+
+|	These are the remaining souls who wish to return the lands from the
+|	Speaker to themselves. If we all work together I can see this place
+|	truly being a wonderful world for the future generations again. But
+|	first we must get out of sight.
+
+|	What do you do?
+
+|	1. Go with them.
+
+@
+1 409
+
+

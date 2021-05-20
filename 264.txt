@@ -1,0 +1,19 @@
+1
+|	I'm a Follower.
+
+|	Really? I find that hard to believe. He says with a smirk.
+
+|	Why's that? You ask.
+
+|	Because, you look like you have a brain. He says with a laugh.
+
+|	What do you do?
+
+|	1. What happened here?
+|	2. How have you been surviving for this long?
+|	3. You caught me.
+
+@
+1 399
+2 400
+3 401

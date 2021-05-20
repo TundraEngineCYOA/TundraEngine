@@ -1,0 +1,18 @@
+1
+|	You look around the strange and yet clean room. It looks to be a lot
+|	cleaner then the others that you've seen that were storing the dead.
+|	Diagrams of the human body hang from the walls with lamps hanging from
+|	the ceiling. A wooden table is placed in the center of the room. 
+
+|	What do you do?
+
+|	1. Examine the diagrams.
+|	2. Examine the table.
+|	3. Search the room.
+
+@
+1 368
+2 369
+3 370
+
+

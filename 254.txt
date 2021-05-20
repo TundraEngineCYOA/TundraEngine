@@ -1,0 +1,18 @@
+1
+|	Walking towards the village, a large wooden fence divides them from
+|	the outside world. You walk past the large gate and find yourself
+|	looking at wood homes and a few places where the public are gathered.
+|	As a few people look upon you with suspicion. 
+
+|	Greetings newcomer, come in, come in. A friendly voice calls out to you
+|	from a small crowd of on lookers.
+
+|	What do you do?
+
+|	1. Check your surroundings.
+|	2. Greet the mystery person.
+
+@
+1 363
+2 364
+

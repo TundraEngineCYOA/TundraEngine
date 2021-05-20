@@ -1,0 +1,15 @@
+1
+|	You quickly turn to face the opening door and without a second thought
+|	you rush over to it and find the area completely void of human life...
+|	nothing...then how did the door open?
+
+|	What do you do?
+
+|	1. Look through the doorway.
+|	2. Enter the area.
+
+@
+1 411
+2 412
+
+

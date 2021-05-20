@@ -1,0 +1,13 @@
+1
+|	You slowly remove the blanket and see the remains of a fresh body.
+|	Judging by the state of the corpse and how it's not rotted away or
+|	bloody. It seemse to be fresh.
+
+|	What do you do?
+
+|	1. Examine the body.
+|	2. Search the body.
+@
+1 384
+2 385 
+

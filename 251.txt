@@ -1,0 +1,18 @@
+1
+|	Exploring the area, you are finding a very dark and unknown world.
+|	Wandering around, you find many cells occupied with the Earthly
+|	remains of those poor souls left to die in the darkness. A foul
+|	stench fills the air as the sound of dripping water echoes through
+|	the place. As you walk around you see someone or something sitting
+|	in a chair perfectly still in the shadows.
+
+|	What do you do?
+
+|	1. Walk to the figure.
+|	2. Talk to the figure.
+|	3. Continue walking.
+@
+1 356
+2 357
+3 358
+

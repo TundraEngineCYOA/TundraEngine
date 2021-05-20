@@ -1,0 +1,25 @@
+1
+|	What's going on here? Yu ask confused by what you see.
+
+|	Sorry, to have scared you like that. Everyone, this is my friend
+|	from the surface. A great explorer...he is trying to find the  
+|	Speaker.
+
+|	The crowd explodes with cheers and a few laughs. The Old Man turns
+|	to them and calms them down.
+
+|	This man is trying to do something that only a few have attempted
+|	to do. Many have decided to do nothing but to live in this world
+|	and yet he is the only one I have ever felt the sense of having
+|	the ability to do it. We must all work together in finding out the
+|	truth before we are all lost within the darkness for eternity.
+
+|	What do you do?
+
+|	1. Let's all work together?
+|	2. We need a plan.
+
+@
+1 407
+2 408
+

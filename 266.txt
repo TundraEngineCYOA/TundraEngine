@@ -1,0 +1,12 @@
+1
+|	I'm a Rogue.
+
+|	A Rogue? From what part of the Province are you from?
+
+|	1. I'm from the surface.
+|	2. I'm from outside of the city.
+
+@
+1 405
+2 406
+

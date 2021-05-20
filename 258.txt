@@ -1,0 +1,23 @@
+1
+|	What is the Great Walk?
+
+|	It's what those who don't have anything left in life to do. It's
+|	a journey that has been taken by all those that reach a certain
+|	age. It is to reflect the life that we have spent on this Earth.
+
+|	So it's a death march? You ask.
+
+|	It's a celebration of one's life. You start from the place you call
+|	home and travel to the Great Peak. Where God will greet you into
+|	the Kingdom of the Sun. They say with great excitement.
+
+|	What do you do?
+
+|	1. How old are you?
+|	2. Does everyone do this?
+|	3. Where is the Great Peak?
+
+@
+1 375
+2 376
+3 377
